@@ -1,0 +1,2847 @@
+{
+  "DATA_LOCALIZATION": [
+    {
+      "index": "0",
+      "eText": "eText_0",
+      "kr": "실력으로 승부한다!\n원하는 캡슐을 뽑고 상품을 획득하세요. 최대 {0} 캐시",
+      "tw": "เอาชนะด้วยความสามารถของตัวเอง!\n คีบแคปซูลที่ต้องการและลุ้นรับไมล์เลจได้เลย"
+    },
+    {
+      "index": "1",
+      "eText": "eText_1",
+      "kr": "[당첨 확률 UP!]\n최대 100바트 당첨 가능",
+      "tw": "[อัตราถูกรางวัลเพิ่มขึ้น!]\nมีสิทธิ์ได้รางวัลสูงสุดถึง 100 บาท"
+    },
+    {
+      "index": "2",
+      "eText": "eText_2",
+      "kr": "[바트 UP!]\n최대 1000바트 당첨 가능 ",
+      "tw": "[จำนวนเงินเพิ่มขึ้น!]\nมีสิทธิ์ได้รางวัลสูงสุดถึง 1000 บาท"
+    },
+    {
+      "index": "3",
+      "eText": "eText_1",
+      "kr": "싱글",
+      "tw": "Single"
+    },
+    {
+      "index": "4",
+      "eText": "eText_2",
+      "kr": "lucky Claw machine",
+      "tw": "Lucky claw machine"
+    },
+    {
+      "index": "5",
+      "eText": "eText_3",
+      "kr": "상품 리스트",
+      "tw": "รายการสินค้า"
+    },
+    {
+      "index": "6",
+      "eText": "eText_4",
+      "kr": "캡슐 섞기",
+      "tw": "หมุนแคปซูล"
+    },
+    {
+      "index": "7",
+      "eText": "eText_5",
+      "kr": "GET",
+      "tw": "GET"
+    },
+    {
+      "index": "8",
+      "eText": "eText_6",
+      "kr": "이런! 아쉬워요 내일 다시 도전해주세요! 확인",
+      "tw": "วันนี้คุณใช้สิทธิ์หมดแล้วnn\nไว้เจอกันใหม่พรุ่งนี้นะ!"
+    },
+    {
+      "index": "9",
+      "eText": "eText_7",
+      "kr": "캡슐 열기",
+      "tw": "เปิดแคปซูล"
+    },
+    {
+      "index": "10",
+      "eText": "eText_8",
+      "kr": "당첨!  확인",
+      "tw": "ยืนยัน"
+    },
+    {
+      "index": "11",
+      "eText": "eText_9",
+      "kr": "상품 리스트",
+      "tw": "รายการสินค้า"
+    },
+    {
+      "index": "12",
+      "eText": "eText_10",
+      "kr": "가위바위보",
+      "tw": "เป่ายิงฉุบ"
+    },
+    {
+      "index": "13",
+      "eText": "eText_11",
+      "kr": "가위바위보를 이기면 푸짐하고 다양한 상품이 와르르~nn푸짐하고 다양한 상품을 받으세요!"
+    },
+    {
+      "index": "14",
+      "eText": "eText_12",
+      "kr": "매칭",
+      "tw": "จับคู่ (Multigame)"
+    },
+    {
+      "index": "15",
+      "eText": "eText_13",
+      "kr": "가위바위보",
+      "tw": "เป่ายิงฉุบ"
+    },
+    {
+      "index": "16",
+      "eText": "eText_14",
+      "kr": "시작하기",
+      "tw": "เริ่ม"
+    },
+    {
+      "index": "17",
+      "eText": "eText_15",
+      "kr": "매칭 진행중",
+      "tw": "กำลังจับคู่"
+    },
+    {
+      "index": "18",
+      "eText": "eText_16",
+      "kr": "각종 닉네임",
+      "tw": "ชื่อเล่นต่าง ๆ"
+    },
+    {
+      "index": "19",
+      "eText": "eText_17",
+      "kr": "카운트가 끝나기 전에 동작을 선택하세요",
+      "tw": "เลือกก่อนสิ้นสุดการนับถอยหลัง"
+    },
+    {
+      "index": "20",
+      "eText": "eText_18",
+      "kr": "승 패",
+      "tw": "ชนะ/แพ้"
+    },
+    {
+      "index": "21",
+      "eText": "eText_19",
+      "kr": "가위",
+      "tw": "กรรไกร"
+    },
+    {
+      "index": "22",
+      "eText": "eText_20",
+      "kr": "바위",
+      "tw": "ค้อน"
+    },
+    {
+      "index": "23",
+      "eText": "eText_21",
+      "kr": "보",
+      "tw": "กระดาษ"
+    },
+    {
+      "index": "24",
+      "eText": "eText_22",
+      "kr": "이런! 졌네요 내일 다시 플레이해주세요! 확인",
+      "tw": "แพ้ซะแล้ว! เล่นใหม่อีกครั้งสิ!nn\nยืนยัน\n"
+    },
+    {
+      "index": "25",
+      "eText": "eText_23",
+      "kr": "다시시작",
+      "tw": "เริ่มใหม่"
+    },
+    {
+      "index": "26",
+      "eText": "eText_24",
+      "kr": "승리! 상품을 획득할 수 있어요. 룰렛돌리기",
+      "tw": "ชนะ! มีสิทธิ์ลุ้นรับรางวัล หมุนรูเล็ตต์เลย"
+    },
+    {
+      "index": "27",
+      "eText": "eText_25",
+      "kr": "LUCky Wheel",
+      "tw": "Lucky wheel"
+    },
+    {
+      "index": "28",
+      "eText": "eText_26",
+      "kr": "손으로 쓸어내려 룰렛을 돌려주세요",
+      "tw": "ชนะ! มีสิทธิ์ลุ้นรับรางวัล หมุนรูเล็ตต์เลย"
+    },
+    {
+      "index": "29",
+      "eText": "eText_27",
+      "kr": "각종 상품명",
+      "tw": "ชนะ! มีสิทธิ์ลุ้นรับรางวัล หมุนรูเล็ตต์เลย\n"
+    },
+    {
+      "index": "30",
+      "eText": "eText_28",
+      "kr": "오늘 기회를 다 사용 했어요.\n내일 다시 만나요!",
+      "tw": "วันนี้คุณใช้สิทธิ์หมดแล้ว\nไว้เจอกันใหม่พรุ่งนี้นะ!"
+    },
+    {
+      "index": "31",
+      "eText": "eText_29",
+      "kr": "앞으로 기회 x회 남았어요",
+      "tw": "เหลือโอกาสอีก {0} ครั้ง"
+    },
+    {
+      "index": "32",
+      "eText": "eText_Name_First_0",
+      "kr": "가느다란",
+      "tw": "ผอมบาง"
+    },
+    {
+      "index": "33",
+      "eText": "eText_Name_First_1",
+      "kr": "가까운",
+      "tw": "ใกล้ ๆ"
+    },
+    {
+      "index": "34",
+      "eText": "eText_Name_First_2",
+      "kr": "가득한",
+      "tw": "เต็มที่"
+    },
+    {
+      "index": "35",
+      "eText": "eText_Name_First_3",
+      "kr": "재치있는",
+      "tw": "ที่มีไหวพริบ"
+    },
+    {
+      "index": "36",
+      "eText": "eText_Name_First_4",
+      "kr": "감성적인",
+      "tw": "ที่ไวต่อความรู้สึก"
+    },
+    {
+      "index": "37",
+      "eText": "eText_Name_First_5",
+      "kr": "강력한",
+      "tw": "แข็งแกร่ง"
+    },
+    {
+      "index": "38",
+      "eText": "eText_Name_First_6",
+      "kr": "건강한",
+      "tw": "สุขภาพดี"
+    },
+    {
+      "index": "39",
+      "eText": "eText_Name_First_7",
+      "kr": "건방진",
+      "tw": "อวดดี"
+    },
+    {
+      "index": "40",
+      "eText": "eText_Name_First_8",
+      "kr": "건장한",
+      "tw": "ที่แข็งแรง"
+    },
+    {
+      "index": "41",
+      "eText": "eText_Name_First_9",
+      "kr": "걸어다니는",
+      "tw": "ที่เดินไปมา"
+    },
+    {
+      "index": "42",
+      "eText": "eText_Name_First_10",
+      "kr": "검정색",
+      "tw": "สีดำ"
+    },
+    {
+      "index": "43",
+      "eText": "eText_Name_First_11",
+      "kr": "겁먹은",
+      "tw": "หวาดกลัว"
+    },
+    {
+      "index": "44",
+      "eText": "eText_Name_First_12",
+      "kr": "게으른",
+      "tw": "ขี้เกียจ"
+    },
+    {
+      "index": "45",
+      "eText": "eText_Name_First_13",
+      "kr": "격분한",
+      "tw": "โกรธมาก"
+    },
+    {
+      "index": "46",
+      "eText": "eText_Name_First_14",
+      "kr": "겸손한",
+      "tw": "เรียบร้อย"
+    },
+    {
+      "index": "47",
+      "eText": "eText_Name_First_15",
+      "kr": "경이로운",
+      "tw": "น่ามหัศจรรย์"
+    },
+    {
+      "index": "48",
+      "eText": "eText_Name_First_16",
+      "kr": "경쾌한",
+      "tw": "ว่องไว"
+    },
+    {
+      "index": "49",
+      "eText": "eText_Name_First_17",
+      "kr": "고운",
+      "tw": "สวยงาม"
+    },
+    {
+      "index": "50",
+      "eText": "eText_Name_First_18",
+      "kr": "고장난",
+      "tw": "เสียหาย"
+    },
+    {
+      "index": "51",
+      "eText": "eText_Name_First_19",
+      "kr": "공격적인",
+      "tw": "ก้าวร้าว"
+    },
+    {
+      "index": "52",
+      "eText": "eText_Name_First_20",
+      "kr": "공손한",
+      "tw": "อ่อนโยน"
+    },
+    {
+      "index": "53",
+      "eText": "eText_Name_First_21",
+      "kr": "광란의",
+      "tw": "บ้าคลั่ง"
+    },
+    {
+      "index": "54",
+      "eText": "eText_Name_First_22",
+      "kr": "괴로운",
+      "tw": "เจ็บปวด"
+    },
+    {
+      "index": "55",
+      "eText": "eText_Name_First_23",
+      "kr": "굴러다니는",
+      "tw": "กลิ้งไปมา"
+    },
+    {
+      "index": "56",
+      "eText": "eText_Name_First_24",
+      "kr": "권위있는",
+      "tw": "มีอำนาจ"
+    },
+    {
+      "index": "57",
+      "eText": "eText_Name_First_25",
+      "kr": "권태로운",
+      "tw": "เบื่อหน่าย"
+    },
+    {
+      "index": "58",
+      "eText": "eText_Name_First_26",
+      "kr": "귀여운",
+      "tw": "น่ารัก"
+    },
+    {
+      "index": "59",
+      "eText": "eText_Name_First_27",
+      "kr": "균형있는",
+      "tw": "สมดุล"
+    },
+    {
+      "index": "60",
+      "eText": "eText_Name_First_28",
+      "kr": "그리운",
+      "tw": "คิดถึง"
+    },
+    {
+      "index": "61",
+      "eText": "eText_Name_First_29",
+      "kr": "긴장하는",
+      "tw": "ตื่นเต้น"
+    },
+    {
+      "index": "62",
+      "eText": "eText_Name_First_30",
+      "kr": "길쭉한",
+      "tw": "ยาว"
+    },
+    {
+      "index": "63",
+      "eText": "eText_Name_First_31",
+      "kr": "깊이있는",
+      "tw": "ลึก"
+    },
+    {
+      "index": "64",
+      "eText": "eText_Name_First_32",
+      "kr": "깔끔한",
+      "tw": "อ่อนน้อม"
+    },
+    {
+      "index": "65",
+      "eText": "eText_Name_First_33",
+      "kr": "깜빡거리는",
+      "tw": "ระยิบระยับ"
+    },
+    {
+      "index": "66",
+      "eText": "eText_Name_First_34",
+      "kr": "깨져버린",
+      "tw": "ถูกทำลาย"
+    },
+    {
+      "index": "67",
+      "eText": "eText_Name_First_35",
+      "kr": "화난",
+      "tw": "โกรธ"
+    },
+    {
+      "index": "68",
+      "eText": "eText_Name_First_36",
+      "kr": "꼼꼼한",
+      "tw": "พิถีพิถัน"
+    },
+    {
+      "index": "69",
+      "eText": "eText_Name_First_37",
+      "kr": "꿈꾸는",
+      "tw": "ฝัน"
+    },
+    {
+      "index": "70",
+      "eText": "eText_Name_First_38",
+      "kr": "끊임없는",
+      "tw": "เรื่อย ๆ"
+    },
+    {
+      "index": "71",
+      "eText": "eText_Name_First_39",
+      "kr": "난데없는",
+      "tw": "กะทันหัน"
+    },
+    {
+      "index": "72",
+      "eText": "eText_Name_First_40",
+      "kr": "날카로운",
+      "tw": "หลักแหลม"
+    },
+    {
+      "index": "73",
+      "eText": "eText_Name_First_41",
+      "kr": "납작한",
+      "tw": "แบน"
+    },
+    {
+      "index": "74",
+      "eText": "eText_Name_First_42",
+      "kr": "낭만적인",
+      "tw": "โรแมนติก"
+    },
+    {
+      "index": "75",
+      "eText": "eText_Name_First_43",
+      "kr": "냉정한",
+      "tw": "เฉยชา"
+    },
+    {
+      "index": "76",
+      "eText": "eText_Name_First_44",
+      "kr": "너그러운",
+      "tw": "ใจกว้าง"
+    },
+    {
+      "index": "77",
+      "eText": "eText_Name_First_45",
+      "kr": "넘어지는",
+      "tw": "ล้ม"
+    },
+    {
+      "index": "78",
+      "eText": "eText_Name_First_46",
+      "kr": "노란색",
+      "tw": "สีเหลือง"
+    },
+    {
+      "index": "79",
+      "eText": "eText_Name_First_47",
+      "kr": "노릇노릇한",
+      "tw": "สีเหลืองเข้ม"
+    },
+    {
+      "index": "80",
+      "eText": "eText_Name_First_48",
+      "kr": "논리적인",
+      "tw": "สมเหตุสมผล"
+    },
+    {
+      "index": "81",
+      "eText": "eText_Name_First_49",
+      "kr": "놀라운",
+      "tw": "ประหลาดใจ"
+    },
+    {
+      "index": "82",
+      "eText": "eText_Name_First_50",
+      "kr": "눈웃음짓는",
+      "tw": "รอยยิ้มในตา"
+    },
+    {
+      "index": "83",
+      "eText": "eText_Name_First_51",
+      "kr": "능력있는",
+      "tw": "มีความสามารถ"
+    },
+    {
+      "index": "84",
+      "eText": "eText_Name_First_52",
+      "kr": "다사다난한",
+      "tw": "น่าสนใจและตื่นเต้น"
+    },
+    {
+      "index": "85",
+      "eText": "eText_Name_First_53",
+      "kr": "단짠단짠",
+      "tw": "เค็มๆ หวานๆ"
+    },
+    {
+      "index": "86",
+      "eText": "eText_Name_First_54",
+      "kr": "달콤한",
+      "tw": "หวาน"
+    },
+    {
+      "index": "87",
+      "eText": "eText_Name_First_55",
+      "kr": "댄스신동",
+      "tw": "เด็กอัจฉริยะเต้นรำ"
+    },
+    {
+      "index": "88",
+      "eText": "eText_Name_First_56",
+      "kr": "덜컹거리는",
+      "tw": "ดังตูมตาม"
+    },
+    {
+      "index": "89",
+      "eText": "eText_Name_First_57",
+      "kr": "덥수룩한",
+      "tw": "รุงรัง"
+    },
+    {
+      "index": "90",
+      "eText": "eText_Name_First_58",
+      "kr": "도전하는",
+      "tw": "ท้าทาย"
+    },
+    {
+      "index": "91",
+      "eText": "eText_Name_First_59",
+      "kr": "두근두근",
+      "tw": "ใจเต้น"
+    },
+    {
+      "index": "92",
+      "eText": "eText_Name_First_60",
+      "kr": "뒤죽박죽",
+      "tw": "สับสน"
+    },
+    {
+      "index": "93",
+      "eText": "eText_Name_First_61",
+      "kr": "따뜻한",
+      "tw": "อบอุ่น"
+    },
+    {
+      "index": "94",
+      "eText": "eText_Name_First_62",
+      "kr": "똑똑한",
+      "tw": "ฉลาด"
+    },
+    {
+      "index": "95",
+      "eText": "eText_Name_First_63",
+      "kr": "뛰어다니는",
+      "tw": "วิ่ง"
+    },
+    {
+      "index": "96",
+      "eText": "eText_Name_First_64",
+      "kr": "춤추는",
+      "tw": "เต้น"
+    },
+    {
+      "index": "97",
+      "eText": "eText_Name_First_65",
+      "kr": "로맨틱한",
+      "tw": "โรแมนติก"
+    },
+    {
+      "index": "98",
+      "eText": "eText_Name_First_66",
+      "kr": "흰색",
+      "tw": "สีขาว"
+    },
+    {
+      "index": "99",
+      "eText": "eText_Name_First_67",
+      "kr": "많이먹는",
+      "tw": "กินเยอะ"
+    },
+    {
+      "index": "100",
+      "eText": "eText_Name_First_68",
+      "kr": "말끔한",
+      "tw": "ดูดี"
+    },
+    {
+      "index": "101",
+      "eText": "eText_Name_First_69",
+      "kr": "끓고있는",
+      "tw": "เดือด"
+    },
+    {
+      "index": "102",
+      "eText": "eText_Name_First_70",
+      "kr": "말랑말랑",
+      "tw": "นิ้มนวล"
+    },
+    {
+      "index": "103",
+      "eText": "eText_Name_First_71",
+      "kr": "매혹하는",
+      "tw": "หลงไหล"
+    },
+    {
+      "index": "104",
+      "eText": "eText_Name_First_72",
+      "kr": "멀리있는",
+      "tw": "ไกล"
+    },
+    {
+      "index": "105",
+      "eText": "eText_Name_First_73",
+      "kr": "공허한",
+      "tw": "ว่างเปล่า"
+    },
+    {
+      "index": "106",
+      "eText": "eText_Name_First_74",
+      "kr": "몸이좋은",
+      "tw": "สุขภาพดี"
+    },
+    {
+      "index": "107",
+      "eText": "eText_Name_First_75",
+      "kr": "무거운",
+      "tw": "หนัก"
+    },
+    {
+      "index": "108",
+      "eText": "eText_Name_First_76",
+      "kr": "무관심한",
+      "tw": "ไม่สนใจ"
+    },
+    {
+      "index": "109",
+      "eText": "eText_Name_First_77",
+      "kr": "무서운",
+      "tw": "น่ากลัว"
+    },
+    {
+      "index": "110",
+      "eText": "eText_Name_First_78",
+      "kr": "무시무시한",
+      "tw": "สยองขวัญ"
+    },
+    {
+      "index": "111",
+      "eText": "eText_Name_First_79",
+      "kr": "뭉게뭉게",
+      "tw": "หนา"
+    },
+    {
+      "index": "112",
+      "eText": "eText_Name_First_80",
+      "kr": "미끄러운",
+      "tw": "ลื่น"
+    },
+    {
+      "index": "113",
+      "eText": "eText_Name_First_81",
+      "kr": "미워하는",
+      "tw": "เกลียด"
+    },
+    {
+      "index": "114",
+      "eText": "eText_Name_First_82",
+      "kr": "믿기힘든",
+      "tw": "ไม่น่าเชื่อ"
+    },
+    {
+      "index": "115",
+      "eText": "eText_Name_First_83",
+      "kr": "바른",
+      "tw": "ขวา"
+    },
+    {
+      "index": "116",
+      "eText": "eText_Name_First_84",
+      "kr": "바쁜",
+      "tw": "ยุ่ง"
+    },
+    {
+      "index": "117",
+      "eText": "eText_Name_First_85",
+      "kr": "바삭한",
+      "tw": "กรอบ"
+    },
+    {
+      "index": "118",
+      "eText": "eText_Name_First_86",
+      "kr": "박학다식한",
+      "tw": "นักปราชญ์"
+    },
+    {
+      "index": "119",
+      "eText": "eText_Name_First_87",
+      "kr": "반가운",
+      "tw": "ดีใจ"
+    },
+    {
+      "index": "120",
+      "eText": "eText_Name_First_88",
+      "kr": "반짝거리는",
+      "tw": "ประกาย"
+    },
+    {
+      "index": "121",
+      "eText": "eText_Name_First_89",
+      "kr": "밝은",
+      "tw": "สดใส"
+    },
+    {
+      "index": "122",
+      "eText": "eText_Name_First_90",
+      "kr": "밤낮없는",
+      "tw": "กลางวันและกลางคืน"
+    },
+    {
+      "index": "123",
+      "eText": "eText_Name_First_91",
+      "kr": "배려있는",
+      "tw": "เอาใจใส่"
+    },
+    {
+      "index": "124",
+      "eText": "eText_Name_First_92",
+      "kr": "병약한",
+      "tw": "ขี้โรค"
+    },
+    {
+      "index": "125",
+      "eText": "eText_Name_First_93",
+      "kr": "보글보글",
+      "tw": "ปุดปุด"
+    },
+    {
+      "index": "126",
+      "eText": "eText_Name_First_94",
+      "kr": "보라색",
+      "tw": "สีม่วง"
+    },
+    {
+      "index": "127",
+      "eText": "eText_Name_First_95",
+      "kr": "복잡한",
+      "tw": "สับสน"
+    },
+    {
+      "index": "128",
+      "eText": "eText_Name_First_96",
+      "kr": "본색을드러내는",
+      "tw": "นิสัยที่แท้จริง"
+    },
+    {
+      "index": "129",
+      "eText": "eText_Name_First_97",
+      "kr": "부드러운",
+      "tw": "นุ่ม"
+    },
+    {
+      "index": "130",
+      "eText": "eText_Name_First_98",
+      "kr": "부잣집",
+      "tw": "บ้านคนรวย"
+    },
+    {
+      "index": "131",
+      "eText": "eText_Name_First_99",
+      "kr": "분홍색",
+      "tw": "สีชมพู"
+    },
+    {
+      "index": "132",
+      "eText": "eText_Name_First_100",
+      "kr": "불타오르는",
+      "tw": "ไฟลุก"
+    },
+    {
+      "index": "133",
+      "eText": "eText_Name_First_101",
+      "kr": "비밀스러운",
+      "tw": "ความลับ"
+    },
+    {
+      "index": "134",
+      "eText": "eText_Name_First_102",
+      "kr": "빠른",
+      "tw": "เร็ว"
+    },
+    {
+      "index": "135",
+      "eText": "eText_Name_First_103",
+      "kr": "출렁이는",
+      "tw": "ถาโถม"
+    },
+    {
+      "index": "136",
+      "eText": "eText_Name_First_104",
+      "kr": "빨간색",
+      "tw": "สีแดง"
+    },
+    {
+      "index": "137",
+      "eText": "eText_Name_First_105",
+      "kr": "뻣뻣한",
+      "tw": "แข็งแรง"
+    },
+    {
+      "index": "138",
+      "eText": "eText_Name_First_106",
+      "kr": "사랑스러운",
+      "tw": "น่ารัก"
+    },
+    {
+      "index": "139",
+      "eText": "eText_Name_First_107",
+      "kr": "사려깊은",
+      "tw": "ลึก"
+    },
+    {
+      "index": "140",
+      "eText": "eText_Name_First_108",
+      "kr": "산뜻한",
+      "tw": "สดชื่น"
+    },
+    {
+      "index": "141",
+      "eText": "eText_Name_First_109",
+      "kr": "상상초월",
+      "tw": "จินตนาการล้ำเลิศ"
+    },
+    {
+      "index": "142",
+      "eText": "eText_Name_First_110",
+      "kr": "상큼한",
+      "tw": "หอม"
+    },
+    {
+      "index": "143",
+      "eText": "eText_Name_First_111",
+      "kr": "성숙한",
+      "tw": "เจริญวัย"
+    },
+    {
+      "index": "144",
+      "eText": "eText_Name_First_112",
+      "kr": "소리지르는",
+      "tw": "ส่งเสียง"
+    },
+    {
+      "index": "145",
+      "eText": "eText_Name_First_113",
+      "kr": "소박한",
+      "tw": "บริสุทธิ์"
+    },
+    {
+      "index": "146",
+      "eText": "eText_Name_First_114",
+      "kr": "솔직한",
+      "tw": "ซื่อตรง"
+    },
+    {
+      "index": "147",
+      "eText": "eText_Name_First_115",
+      "kr": "수려한",
+      "tw": "งดงาม"
+    },
+    {
+      "index": "148",
+      "eText": "eText_Name_First_116",
+      "kr": "수북한",
+      "tw": "เต็ม"
+    },
+    {
+      "index": "149",
+      "eText": "eText_Name_First_117",
+      "kr": "순수한",
+      "tw": "สะอาด"
+    },
+    {
+      "index": "150",
+      "eText": "eText_Name_First_118",
+      "kr": "슈퍼",
+      "tw": "ซูเปอร์"
+    },
+    {
+      "index": "151",
+      "eText": "eText_Name_First_119",
+      "kr": "슈퍼울트라",
+      "tw": "ซูเปอร์อุลตร้า"
+    },
+    {
+      "index": "152",
+      "eText": "eText_Name_First_120",
+      "kr": "승천하는",
+      "tw": "ขึ้นสวรรค์"
+    },
+    {
+      "index": "153",
+      "eText": "eText_Name_First_121",
+      "kr": "시끄러운",
+      "tw": "หนวกหู"
+    },
+    {
+      "index": "154",
+      "eText": "eText_Name_First_122",
+      "kr": "시선강탈",
+      "tw": "ดึงดูดสายตา"
+    },
+    {
+      "index": "155",
+      "eText": "eText_Name_First_123",
+      "kr": "시작하는",
+      "tw": "เริ่มต้น"
+    },
+    {
+      "index": "156",
+      "eText": "eText_Name_First_124",
+      "kr": "시집간",
+      "tw": "แต่งงาน"
+    },
+    {
+      "index": "157",
+      "eText": "eText_Name_First_125",
+      "kr": "시큼한",
+      "tw": "เปรี้ยว"
+    },
+    {
+      "index": "158",
+      "eText": "eText_Name_First_126",
+      "kr": "신경쓰는",
+      "tw": "สนใจ"
+    },
+    {
+      "index": "159",
+      "eText": "eText_Name_First_127",
+      "kr": "신나는",
+      "tw": "ตื่นเต้น"
+    },
+    {
+      "index": "160",
+      "eText": "eText_Name_First_128",
+      "kr": "심술궂은",
+      "tw": "ใจร้าย"
+    },
+    {
+      "index": "161",
+      "eText": "eText_Name_First_129",
+      "kr": "심심한",
+      "tw": "น่าเบื่อ"
+    },
+    {
+      "index": "162",
+      "eText": "eText_Name_First_130",
+      "kr": "싹싹한",
+      "tw": "นิสัยอ่อนหวาน"
+    },
+    {
+      "index": "163",
+      "eText": "eText_Name_First_131",
+      "kr": "아삭아삭한",
+      "tw": "ดังกร๊อบ ๆ"
+    },
+    {
+      "index": "164",
+      "eText": "eText_Name_First_132",
+      "kr": "알록달록한",
+      "tw": "ลวดลสย"
+    },
+    {
+      "index": "165",
+      "eText": "eText_Name_First_133",
+      "kr": "알바하는",
+      "tw": "พาร์ทไทม์"
+    },
+    {
+      "index": "166",
+      "eText": "eText_Name_First_134",
+      "kr": "압도당하는",
+      "tw": "เหนือกว่า"
+    },
+    {
+      "index": "167",
+      "eText": "eText_Name_First_135",
+      "kr": "애교있는",
+      "tw": "น่ารัก"
+    },
+    {
+      "index": "168",
+      "eText": "eText_Name_First_136",
+      "kr": "야근하는",
+      "tw": "ทำงานกลางคืน"
+    },
+    {
+      "index": "169",
+      "eText": "eText_Name_First_137",
+      "kr": "야들야들한",
+      "tw": "นุ่มนวล"
+    },
+    {
+      "index": "170",
+      "eText": "eText_Name_First_138",
+      "kr": "야망있는",
+      "tw": "ทะเยอทะยาน"
+    },
+    {
+      "index": "171",
+      "eText": "eText_Name_First_139",
+      "kr": "어두운",
+      "tw": "มืด"
+    },
+    {
+      "index": "172",
+      "eText": "eText_Name_First_140",
+      "kr": "어린",
+      "tw": "เด็กน้อย"
+    },
+    {
+      "index": "173",
+      "eText": "eText_Name_First_141",
+      "kr": "얼룩덜룩한",
+      "tw": "ลายจุด"
+    },
+    {
+      "index": "174",
+      "eText": "eText_Name_First_142",
+      "kr": "엉금엉금",
+      "tw": "ต้วมเตี้ยม"
+    },
+    {
+      "index": "175",
+      "eText": "eText_Name_First_143",
+      "kr": "엘레강스",
+      "tw": "เอเลกังส์"
+    },
+    {
+      "index": "176",
+      "eText": "eText_Name_First_144",
+      "kr": "영감을주는",
+      "tw": "ดลใจ"
+    },
+    {
+      "index": "177",
+      "eText": "eText_Name_First_145",
+      "kr": "영업하는",
+      "tw": "ค้าขาย"
+    },
+    {
+      "index": "178",
+      "eText": "eText_Name_First_146",
+      "kr": "오락가락한",
+      "tw": "ไปๆ มาๆ"
+    },
+    {
+      "index": "179",
+      "eText": "eText_Name_First_147",
+      "kr": "오순도순",
+      "tw": "สนิทสนม"
+    },
+    {
+      "index": "180",
+      "eText": "eText_Name_First_148",
+      "kr": "옷갈아입는",
+      "tw": "เปลี่ยนเสื้อ"
+    },
+    {
+      "index": "181",
+      "eText": "eText_Name_First_149",
+      "kr": "외로운",
+      "tw": "เหงา"
+    },
+    {
+      "index": "182",
+      "eText": "eText_Name_First_150",
+      "kr": "용감한",
+      "tw": "กล้าหาญ"
+    },
+    {
+      "index": "183",
+      "eText": "eText_Name_First_151",
+      "kr": "잔액부족",
+      "tw": "เงินไม่พอ"
+    },
+    {
+      "index": "184",
+      "eText": "eText_Name_First_152",
+      "kr": "우물쭈물",
+      "tw": "สองจิตสองใจ"
+    },
+    {
+      "index": "185",
+      "eText": "eText_Name_First_153",
+      "kr": "우울한",
+      "tw": "เศร้า"
+    },
+    {
+      "index": "186",
+      "eText": "eText_Name_First_154",
+      "kr": "우유부단한",
+      "tw": "โลเล"
+    },
+    {
+      "index": "187",
+      "eText": "eText_Name_First_155",
+      "kr": "울고있는",
+      "tw": "ร้องไห้"
+    },
+    {
+      "index": "188",
+      "eText": "eText_Name_First_156",
+      "kr": "유용한",
+      "tw": "มีประโยชน์"
+    },
+    {
+      "index": "189",
+      "eText": "eText_Name_First_157",
+      "kr": "융통성없는",
+      "tw": "ตายตัว"
+    },
+    {
+      "index": "190",
+      "eText": "eText_Name_First_158",
+      "kr": "융통성있는",
+      "tw": "ยืดหยุ่น"
+    },
+    {
+      "index": "191",
+      "eText": "eText_Name_First_159",
+      "kr": "응애응애",
+      "tw": "อุแว้อุแว้"
+    },
+    {
+      "index": "192",
+      "eText": "eText_Name_First_160",
+      "kr": "일하는",
+      "tw": "ทำงาน"
+    },
+    {
+      "index": "193",
+      "eText": "eText_Name_First_161",
+      "kr": "자극적인",
+      "tw": "เร้าใจ"
+    },
+    {
+      "index": "194",
+      "eText": "eText_Name_First_162",
+      "kr": "자본주의",
+      "tw": "ระบบทุนนิยม"
+    },
+    {
+      "index": "195",
+      "eText": "eText_Name_First_163",
+      "kr": "떠나는",
+      "tw": "จากไป"
+    },
+    {
+      "index": "196",
+      "eText": "eText_Name_First_164",
+      "kr": "자이언트",
+      "tw": "ไจแอนท์"
+    },
+    {
+      "index": "197",
+      "eText": "eText_Name_First_165",
+      "kr": "작은",
+      "tw": "เล็ก"
+    },
+    {
+      "index": "198",
+      "eText": "eText_Name_First_166",
+      "kr": "잠입하는",
+      "tw": "แอบเข้ามา"
+    },
+    {
+      "index": "199",
+      "eText": "eText_Name_First_167",
+      "kr": "장난기있는",
+      "tw": "ซุกซน"
+    },
+    {
+      "index": "200",
+      "eText": "eText_Name_First_168",
+      "kr": "장난치는",
+      "tw": "เกเร"
+    },
+    {
+      "index": "201",
+      "eText": "eText_Name_First_169",
+      "kr": "재롱부리는",
+      "tw": "คนมีเล่ห์เหลี่ยม"
+    },
+    {
+      "index": "202",
+      "eText": "eText_Name_First_170",
+      "kr": "저축하는",
+      "tw": "ออมเงิน"
+    },
+    {
+      "index": "203",
+      "eText": "eText_Name_First_171",
+      "kr": "젊은",
+      "tw": "วัยรุ่น"
+    },
+    {
+      "index": "204",
+      "eText": "eText_Name_First_172",
+      "kr": "조각같은",
+      "tw": "ปะติมากรรม"
+    },
+    {
+      "index": "205",
+      "eText": "eText_Name_First_173",
+      "kr": "조용한",
+      "tw": "เงียบ"
+    },
+    {
+      "index": "206",
+      "eText": "eText_Name_First_174",
+      "kr": "졸린",
+      "tw": "ง่วง"
+    },
+    {
+      "index": "207",
+      "eText": "eText_Name_First_175",
+      "kr": "좌천당한",
+      "tw": "ถูกลดตำแหน่ง"
+    },
+    {
+      "index": "208",
+      "eText": "eText_Name_First_176",
+      "kr": "지루한",
+      "tw": "เบื่อ"
+    },
+    {
+      "index": "209",
+      "eText": "eText_Name_First_177",
+      "kr": "진지한",
+      "tw": "จริงจัง"
+    },
+    {
+      "index": "210",
+      "eText": "eText_Name_First_178",
+      "kr": "질투하는",
+      "tw": "หึง"
+    },
+    {
+      "index": "211",
+      "eText": "eText_Name_First_179",
+      "kr": "짜증내는",
+      "tw": "รำคาญ"
+    },
+    {
+      "index": "212",
+      "eText": "eText_Name_First_180",
+      "kr": "쩝쩝대는",
+      "tw": "แจ๊บ ๆ"
+    },
+    {
+      "index": "213",
+      "eText": "eText_Name_First_181",
+      "kr": "차가운",
+      "tw": "เย็น"
+    },
+    {
+      "index": "214",
+      "eText": "eText_Name_First_182",
+      "kr": "찰떡같은",
+      "tw": "เข้ากันได้ดี"
+    },
+    {
+      "index": "215",
+      "eText": "eText_Name_First_183",
+      "kr": "창피한",
+      "tw": "อับอาย"
+    },
+    {
+      "index": "216",
+      "eText": "eText_Name_First_184",
+      "kr": "청아한",
+      "tw": "สดใส"
+    },
+    {
+      "index": "217",
+      "eText": "eText_Name_First_185",
+      "kr": "초록색",
+      "tw": "สีเขียว"
+    },
+    {
+      "index": "218",
+      "eText": "eText_Name_First_186",
+      "kr": "촉촉한",
+      "tw": "ชุ่มชื้น"
+    },
+    {
+      "index": "219",
+      "eText": "eText_Name_First_187",
+      "kr": "친절한",
+      "tw": "ใจดี"
+    },
+    {
+      "index": "220",
+      "eText": "eText_Name_First_188",
+      "kr": "침착한",
+      "tw": "สุขุม"
+    },
+    {
+      "index": "221",
+      "eText": "eText_Name_First_189",
+      "kr": "커다란",
+      "tw": "ยิ่งใหญ่"
+    },
+    {
+      "index": "222",
+      "eText": "eText_Name_First_190",
+      "kr": "컴컴한",
+      "tw": "มืดสนิท"
+    },
+    {
+      "index": "223",
+      "eText": "eText_Name_First_191",
+      "kr": "코파는",
+      "tw": "ขี้มูก"
+    },
+    {
+      "index": "224",
+      "eText": "eText_Name_First_192",
+      "kr": "큼지막한",
+      "tw": "มโหฬาร"
+    },
+    {
+      "index": "225",
+      "eText": "eText_Name_First_193",
+      "kr": "터무니없는",
+      "tw": "ไร้สาระ"
+    },
+    {
+      "index": "226",
+      "eText": "eText_Name_First_194",
+      "kr": "털많은",
+      "tw": "ขนดก"
+    },
+    {
+      "index": "227",
+      "eText": "eText_Name_First_195",
+      "kr": "톡톡튀는",
+      "tw": "กระเด้งกระดอน"
+    },
+    {
+      "index": "228",
+      "eText": "eText_Name_First_196",
+      "kr": "통제불능",
+      "tw": "ควบคุมไม่ได้"
+    },
+    {
+      "index": "229",
+      "eText": "eText_Name_First_197",
+      "kr": "통통한",
+      "tw": "อวบ"
+    },
+    {
+      "index": "230",
+      "eText": "eText_Name_First_198",
+      "kr": "투명한",
+      "tw": "ใส"
+    },
+    {
+      "index": "231",
+      "eText": "eText_Name_First_199",
+      "kr": "파란색",
+      "tw": "สีฟ้า"
+    },
+    {
+      "index": "232",
+      "eText": "eText_Name_First_200",
+      "kr": "파워풀",
+      "tw": "Powerful"
+    },
+    {
+      "index": "233",
+      "eText": "eText_Name_First_201",
+      "kr": "패션왕",
+      "tw": "เจ้าพ่อแฟชั่น"
+    },
+    {
+      "index": "234",
+      "eText": "eText_Name_First_202",
+      "kr": "폭넓은",
+      "tw": "กว้างขวาง"
+    },
+    {
+      "index": "235",
+      "eText": "eText_Name_First_203",
+      "kr": "품절된",
+      "tw": "สินค้าหมด"
+    },
+    {
+      "index": "236",
+      "eText": "eText_Name_First_204",
+      "kr": "피곤한",
+      "tw": "เหนื่อย"
+    },
+    {
+      "index": "237",
+      "eText": "eText_Name_First_205",
+      "kr": "해맑은",
+      "tw": "ขาวสะอาด"
+    },
+    {
+      "index": "238",
+      "eText": "eText_Name_First_206",
+      "kr": "행복한",
+      "tw": "มีความสุข"
+    },
+    {
+      "index": "239",
+      "eText": "eText_Name_First_207",
+      "kr": "향기로운",
+      "tw": "กลิ่นหอม"
+    },
+    {
+      "index": "240",
+      "eText": "eText_Name_First_208",
+      "kr": "허공의",
+      "tw": "ที่ว่างเปล่า"
+    },
+    {
+      "index": "241",
+      "eText": "eText_Name_First_209",
+      "kr": "허둥지둥",
+      "tw": "ฉุกละหุก"
+    },
+    {
+      "index": "242",
+      "eText": "eText_Name_First_210",
+      "kr": "험담하는",
+      "tw": "นินทา"
+    },
+    {
+      "index": "243",
+      "eText": "eText_Name_First_211",
+      "kr": "형광색",
+      "tw": "สีนีออน"
+    },
+    {
+      "index": "244",
+      "eText": "eText_Name_First_212",
+      "kr": "호기심있는",
+      "tw": "อยากรู้อยากเห็น"
+    },
+    {
+      "index": "245",
+      "eText": "eText_Name_First_213",
+      "kr": "호화스러운",
+      "tw": "หรูหรา"
+    },
+    {
+      "index": "246",
+      "eText": "eText_Name_First_214",
+      "kr": "혼밥하는",
+      "tw": "กินข้าวคนเดียว"
+    },
+    {
+      "index": "247",
+      "eText": "eText_Name_First_215",
+      "kr": "활발한",
+      "tw": "ร่าเริง"
+    },
+    {
+      "index": "248",
+      "eText": "eText_Name_First_216",
+      "kr": "훤칠한",
+      "tw": "สูงเพรียว"
+    },
+    {
+      "index": "249",
+      "eText": "eText_Name_First_217",
+      "kr": "휴가나간",
+      "tw": "ออกไปพักร้อน"
+    },
+    {
+      "index": "250",
+      "eText": "eText_Name_First_218",
+      "kr": "흔들린",
+      "tw": "เขย่า"
+    },
+    {
+      "index": "251",
+      "eText": "eText_Name_First_219",
+      "kr": "희망적인",
+      "tw": "คาดหวัง"
+    },
+    {
+      "index": "252",
+      "eText": "eText_Name_First_220",
+      "kr": "힘쌘",
+      "tw": "แข็งแรง"
+    },
+    {
+      "index": "253",
+      "eText": "eText_Name_Second_0",
+      "kr": "ATM",
+      "tw": "ATM"
+    },
+    {
+      "index": "254",
+      "eText": "eText_Name_Second_1",
+      "kr": "CCTV",
+      "tw": "CCTV"
+    },
+    {
+      "index": "255",
+      "eText": "eText_Name_Second_2",
+      "kr": "가로등",
+      "tw": "ไฟถนน"
+    },
+    {
+      "index": "256",
+      "eText": "eText_Name_Second_3",
+      "kr": "가로수",
+      "tw": "ทิวไม้"
+    },
+    {
+      "index": "257",
+      "eText": "eText_Name_Second_4",
+      "kr": "가을",
+      "tw": "ฤดูใบไม้ร่วง"
+    },
+    {
+      "index": "258",
+      "eText": "eText_Name_Second_5",
+      "kr": "가지",
+      "tw": "มะเขือยาว"
+    },
+    {
+      "index": "259",
+      "eText": "eText_Name_Second_6",
+      "kr": "감기약",
+      "tw": "ยาแก้หวัด"
+    },
+    {
+      "index": "260",
+      "eText": "eText_Name_Second_7",
+      "kr": "강아지",
+      "tw": "ลูกหมา"
+    },
+    {
+      "index": "261",
+      "eText": "eText_Name_Second_8",
+      "kr": "거북이",
+      "tw": "เต่า"
+    },
+    {
+      "index": "262",
+      "eText": "eText_Name_Second_9",
+      "kr": "겨울",
+      "tw": "ฤดูหนาว"
+    },
+    {
+      "index": "263",
+      "eText": "eText_Name_Second_10",
+      "kr": "계란빵",
+      "tw": "ขนมปังไข่"
+    },
+    {
+      "index": "264",
+      "eText": "eText_Name_Second_11",
+      "kr": "계란후라이",
+      "tw": "ไข่เจียว"
+    },
+    {
+      "index": "265",
+      "eText": "eText_Name_Second_12",
+      "kr": "고등어",
+      "tw": "ปลาซาบะ"
+    },
+    {
+      "index": "266",
+      "eText": "eText_Name_Second_13",
+      "kr": "고라니",
+      "tw": "กวางน้ำ"
+    },
+    {
+      "index": "267",
+      "eText": "eText_Name_Second_14",
+      "kr": "고래상어",
+      "tw": "ฉลามวาฬ"
+    },
+    {
+      "index": "268",
+      "eText": "eText_Name_Second_15",
+      "kr": "고무장갑",
+      "tw": "ถุงมือยาง"
+    },
+    {
+      "index": "269",
+      "eText": "eText_Name_Second_16",
+      "kr": "고양이",
+      "tw": "แมว"
+    },
+    {
+      "index": "270",
+      "eText": "eText_Name_Second_17",
+      "kr": "과장님",
+      "tw": "หัวหน้าฝ่าย"
+    },
+    {
+      "index": "271",
+      "eText": "eText_Name_Second_18",
+      "kr": "괴짜",
+      "tw": "คนบ้า"
+    },
+    {
+      "index": "272",
+      "eText": "eText_Name_Second_19",
+      "kr": "교과서",
+      "tw": "หนังสือเรียน"
+    },
+    {
+      "index": "273",
+      "eText": "eText_Name_Second_20",
+      "kr": "교수님",
+      "tw": "อาจารย์"
+    },
+    {
+      "index": "274",
+      "eText": "eText_Name_Second_21",
+      "kr": "구슬",
+      "tw": "ลูกแก้ว"
+    },
+    {
+      "index": "275",
+      "eText": "eText_Name_Second_22",
+      "kr": "국밥",
+      "tw": "ข้าวต้ม"
+    },
+    {
+      "index": "276",
+      "eText": "eText_Name_Second_23",
+      "kr": "국회의사당",
+      "tw": "ตึกรัฐสภา"
+    },
+    {
+      "index": "277",
+      "eText": "eText_Name_Second_24",
+      "kr": "군인",
+      "tw": "ทหาร"
+    },
+    {
+      "index": "278",
+      "eText": "eText_Name_Second_25",
+      "kr": "금괴",
+      "tw": "ทองแท่ง"
+    },
+    {
+      "index": "279",
+      "eText": "eText_Name_Second_26",
+      "kr": "금쪽이",
+      "tw": "ทองน่ารัก"
+    },
+    {
+      "index": "280",
+      "eText": "eText_Name_Second_27",
+      "kr": "기러기",
+      "tw": "ห่านป่า"
+    },
+    {
+      "index": "281",
+      "eText": "eText_Name_Second_28",
+      "kr": "기린",
+      "tw": "ยีราฟ "
+    },
+    {
+      "index": "282",
+      "eText": "eText_Name_Second_29",
+      "kr": "김밥",
+      "tw": "คิมบับ"
+    },
+    {
+      "index": "283",
+      "eText": "eText_Name_Second_30",
+      "kr": "꽃밭",
+      "tw": "ทุ่งดอกไม้"
+    },
+    {
+      "index": "284",
+      "eText": "eText_Name_Second_31",
+      "kr": "꾀꼬리",
+      "tw": "นกขมิ้น"
+    },
+    {
+      "index": "285",
+      "eText": "eText_Name_Second_32",
+      "kr": "나무늘보",
+      "tw": "สลอธ"
+    },
+    {
+      "index": "286",
+      "eText": "eText_Name_Second_33",
+      "kr": "너구리",
+      "tw": "แรคคูน"
+    },
+    {
+      "index": "287",
+      "eText": "eText_Name_Second_34",
+      "kr": "녹차",
+      "tw": "ชาเขียว"
+    },
+    {
+      "index": "288",
+      "eText": "eText_Name_Second_35",
+      "kr": "눈보라",
+      "tw": "พายุหิมะ"
+    },
+    {
+      "index": "289",
+      "eText": "eText_Name_Second_36",
+      "kr": "눈사람",
+      "tw": "ตุ๊กตาหิมะ"
+    },
+    {
+      "index": "290",
+      "eText": "eText_Name_Second_37",
+      "kr": "느티나무",
+      "tw": "ต้นเซลโคว่า"
+    },
+    {
+      "index": "291",
+      "eText": "eText_Name_Second_38",
+      "kr": "니모",
+      "tw": "นีโม่"
+    },
+    {
+      "index": "292",
+      "eText": "eText_Name_Second_39",
+      "kr": "다람쥐",
+      "tw": "กระรอก"
+    },
+    {
+      "index": "293",
+      "eText": "eText_Name_Second_40",
+      "kr": "다이아몬드",
+      "tw": "เพชร"
+    },
+    {
+      "index": "294",
+      "eText": "eText_Name_Second_41",
+      "kr": "단백질보충제",
+      "tw": "เติมโปรตีน"
+    },
+    {
+      "index": "295",
+      "eText": "eText_Name_Second_42",
+      "kr": "단팥빵",
+      "tw": "ขนมปังถั่วแดง"
+    },
+    {
+      "index": "296",
+      "eText": "eText_Name_Second_43",
+      "kr": "달걀",
+      "tw": "ไข่"
+    },
+    {
+      "index": "297",
+      "eText": "eText_Name_Second_44",
+      "kr": "달팽이",
+      "tw": "หอยทาก"
+    },
+    {
+      "index": "298",
+      "eText": "eText_Name_Second_45",
+      "kr": "닭",
+      "tw": "ไก่"
+    },
+    {
+      "index": "299",
+      "eText": "eText_Name_Second_46",
+      "kr": "닭꼬치",
+      "tw": "ไก่ปิ้ง"
+    },
+    {
+      "index": "300",
+      "eText": "eText_Name_Second_47",
+      "kr": "당나귀",
+      "tw": "ลา"
+    },
+    {
+      "index": "301",
+      "eText": "eText_Name_Second_48",
+      "kr": "대표님",
+      "tw": "ผู้อำนวยการ"
+    },
+    {
+      "index": "302",
+      "eText": "eText_Name_Second_49",
+      "kr": "대학생",
+      "tw": "นักศึกษา"
+    },
+    {
+      "index": "303",
+      "eText": "eText_Name_Second_50",
+      "kr": "도라지",
+      "tw": "ต้นบอลลูน"
+    },
+    {
+      "index": "304",
+      "eText": "eText_Name_Second_51",
+      "kr": "도자기",
+      "tw": "ไห"
+    },
+    {
+      "index": "305",
+      "eText": "eText_Name_Second_52",
+      "kr": "돈다발",
+      "tw": "ก้อนเงิน"
+    },
+    {
+      "index": "306",
+      "eText": "eText_Name_Second_53",
+      "kr": "돌고래",
+      "tw": "โลมา"
+    },
+    {
+      "index": "307",
+      "eText": "eText_Name_Second_54",
+      "kr": "된장국",
+      "tw": "ซุปเต้าเจี้ยว"
+    },
+    {
+      "index": "308",
+      "eText": "eText_Name_Second_55",
+      "kr": "딸기우유",
+      "tw": "นมสตรอเบอรี่"
+    },
+    {
+      "index": "309",
+      "eText": "eText_Name_Second_56",
+      "kr": "레몬",
+      "tw": "เลมอน"
+    },
+    {
+      "index": "310",
+      "eText": "eText_Name_Second_57",
+      "kr": "레몬청",
+      "tw": "เลมอนเชื่อม"
+    },
+    {
+      "index": "311",
+      "eText": "eText_Name_Second_58",
+      "kr": "로봇",
+      "tw": "หุ่นยน"
+    },
+    {
+      "index": "312",
+      "eText": "eText_Name_Second_59",
+      "kr": "롱패딩",
+      "tw": "เสื้อกันหนาว"
+    },
+    {
+      "index": "313",
+      "eText": "eText_Name_Second_60",
+      "kr": "리더",
+      "tw": "หัวหน้า"
+    },
+    {
+      "index": "314",
+      "eText": "eText_Name_Second_61",
+      "kr": "리조또",
+      "tw": "รีซอตโต"
+    },
+    {
+      "index": "315",
+      "eText": "eText_Name_Second_62",
+      "kr": "마늘",
+      "tw": "กระเทียม"
+    },
+    {
+      "index": "316",
+      "eText": "eText_Name_Second_63",
+      "kr": "마우스",
+      "tw": "หนู"
+    },
+    {
+      "index": "317",
+      "eText": "eText_Name_Second_64",
+      "kr": "마이웨이",
+      "tw": "My way"
+    },
+    {
+      "index": "318",
+      "eText": "eText_Name_Second_65",
+      "kr": "망고",
+      "tw": "มะม่วง"
+    },
+    {
+      "index": "319",
+      "eText": "eText_Name_Second_66",
+      "kr": "먹구름",
+      "tw": "กลุ่มเมฆดำ"
+    },
+    {
+      "index": "320",
+      "eText": "eText_Name_Second_67",
+      "kr": "면접관",
+      "tw": "ผู้สัมภาษณ์"
+    },
+    {
+      "index": "321",
+      "eText": "eText_Name_Second_68",
+      "kr": "모히또",
+      "tw": "โมฮิโต้"
+    },
+    {
+      "index": "322",
+      "eText": "eText_Name_Second_69",
+      "kr": "목요일",
+      "tw": "วันพฤหัสบดี"
+    },
+    {
+      "index": "323",
+      "eText": "eText_Name_Second_70",
+      "kr": "무지개",
+      "tw": "สายรุ้ง"
+    },
+    {
+      "index": "324",
+      "eText": "eText_Name_Second_71",
+      "kr": "문방구",
+      "tw": "เครื่องเขียน"
+    },
+    {
+      "index": "325",
+      "eText": "eText_Name_Second_72",
+      "kr": "문어",
+      "tw": "ปลาหมึกยักษ์"
+    },
+    {
+      "index": "326",
+      "eText": "eText_Name_Second_73",
+      "kr": "뭉게구름",
+      "tw": "เมฆคิวมูลัส"
+    },
+    {
+      "index": "327",
+      "eText": "eText_Name_Second_74",
+      "kr": "미역",
+      "tw": "สาหร่ายทะเลย"
+    },
+    {
+      "index": "328",
+      "eText": "eText_Name_Second_75",
+      "kr": "바나나",
+      "tw": "กล้วย"
+    },
+    {
+      "index": "329",
+      "eText": "eText_Name_Second_76",
+      "kr": "바나나우유",
+      "tw": "นมกล้วย"
+    },
+    {
+      "index": "330",
+      "eText": "eText_Name_Second_77",
+      "kr": "바다",
+      "tw": "ทะเล"
+    },
+    {
+      "index": "331",
+      "eText": "eText_Name_Second_78",
+      "kr": "바람",
+      "tw": "ลม"
+    },
+    {
+      "index": "332",
+      "eText": "eText_Name_Second_79",
+      "kr": "바퀴벌레",
+      "tw": "แมลงสาบ"
+    },
+    {
+      "index": "333",
+      "eText": "eText_Name_Second_80",
+      "kr": "반달가슴곰",
+      "tw": "หมีควาย"
+    },
+    {
+      "index": "334",
+      "eText": "eText_Name_Second_81",
+      "kr": "반짝이",
+      "tw": "ระยิบระยับ"
+    },
+    {
+      "index": "335",
+      "eText": "eText_Name_Second_82",
+      "kr": "배구공",
+      "tw": "ลูกวอลเลย์บอล"
+    },
+    {
+      "index": "336",
+      "eText": "eText_Name_Second_83",
+      "kr": "백수",
+      "tw": "มือเปล่า"
+    },
+    {
+      "index": "337",
+      "eText": "eText_Name_Second_84",
+      "kr": "백화점",
+      "tw": "ห้าง"
+    },
+    {
+      "index": "338",
+      "eText": "eText_Name_Second_85",
+      "kr": "뱃살",
+      "tw": "ท้อง"
+    },
+    {
+      "index": "339",
+      "eText": "eText_Name_Second_86",
+      "kr": "버터",
+      "tw": "เนย"
+    },
+    {
+      "index": "340",
+      "eText": "eText_Name_Second_87",
+      "kr": "버터쿠키",
+      "tw": "Butter Cookie"
+    },
+    {
+      "index": "341",
+      "eText": "eText_Name_Second_88",
+      "kr": "벌꿀",
+      "tw": "น้ำผึ้ง"
+    },
+    {
+      "index": "342",
+      "eText": "eText_Name_Second_89",
+      "kr": "병아리",
+      "tw": "ลูกเจี๊ยบ"
+    },
+    {
+      "index": "343",
+      "eText": "eText_Name_Second_90",
+      "kr": "보드카",
+      "tw": "วอดก้า"
+    },
+    {
+      "index": "344",
+      "eText": "eText_Name_Second_91",
+      "kr": "보리밥",
+      "tw": "ข้าวบาร์เลย์"
+    },
+    {
+      "index": "345",
+      "eText": "eText_Name_Second_92",
+      "kr": "복숭아",
+      "tw": "ลูกพีช"
+    },
+    {
+      "index": "346",
+      "eText": "eText_Name_Second_93",
+      "kr": "봄",
+      "tw": "ฤดูใบไม้ผลิ"
+    },
+    {
+      "index": "347",
+      "eText": "eText_Name_Second_94",
+      "kr": "불가사리",
+      "tw": "ปลาดาว"
+    },
+    {
+      "index": "348",
+      "eText": "eText_Name_Second_95",
+      "kr": "붕어빵",
+      "tw": "ขนมปังปลา"
+    },
+    {
+      "index": "349",
+      "eText": "eText_Name_Second_96",
+      "kr": "브로콜리",
+      "tw": "บรอกโคลี"
+    },
+    {
+      "index": "350",
+      "eText": "eText_Name_Second_97",
+      "kr": "블루베리",
+      "tw": "บลูเบอรี่"
+    },
+    {
+      "index": "351",
+      "eText": "eText_Name_Second_98",
+      "kr": "비둘기",
+      "tw": "นกพิราบ"
+    },
+    {
+      "index": "352",
+      "eText": "eText_Name_Second_99",
+      "kr": "비타민",
+      "tw": "วิตามิน"
+    },
+    {
+      "index": "353",
+      "eText": "eText_Name_Second_100",
+      "kr": "빗방울",
+      "tw": "หยาดฝน"
+    },
+    {
+      "index": "354",
+      "eText": "eText_Name_Second_101",
+      "kr": "사냥꾼",
+      "tw": "นายพราน"
+    },
+    {
+      "index": "355",
+      "eText": "eText_Name_Second_102",
+      "kr": "사랑꾼",
+      "tw": "นักรัก"
+    },
+    {
+      "index": "356",
+      "eText": "eText_Name_Second_103",
+      "kr": "산타",
+      "tw": "ซานต้า"
+    },
+    {
+      "index": "357",
+      "eText": "eText_Name_Second_104",
+      "kr": "생과일주스",
+      "tw": "น้ำผลไม้สด"
+    },
+    {
+      "index": "358",
+      "eText": "eText_Name_Second_105",
+      "kr": "석촌호수",
+      "tw": "ทะเลสาบซอกชน"
+    },
+    {
+      "index": "359",
+      "eText": "eText_Name_Second_106",
+      "kr": "선비",
+      "tw": "ซ็อนบี"
+    },
+    {
+      "index": "360",
+      "eText": "eText_Name_Second_107",
+      "kr": "선풍기",
+      "tw": "พัดลม"
+    },
+    {
+      "index": "361",
+      "eText": "eText_Name_Second_108",
+      "kr": "성냥",
+      "tw": "ไม้ขีดไฟ"
+    },
+    {
+      "index": "362",
+      "eText": "eText_Name_Second_109",
+      "kr": "소금",
+      "tw": "เกลือ"
+    },
+    {
+      "index": "363",
+      "eText": "eText_Name_Second_110",
+      "kr": "소화제",
+      "tw": "ยาช่วยย่อย"
+    },
+    {
+      "index": "364",
+      "eText": "eText_Name_Second_111",
+      "kr": "손목시계",
+      "tw": "นาฬิกาข้อมือ"
+    },
+    {
+      "index": "365",
+      "eText": "eText_Name_Second_112",
+      "kr": "솜사탕",
+      "tw": "สายไหม"
+    },
+    {
+      "index": "366",
+      "eText": "eText_Name_Second_113",
+      "kr": "송아지",
+      "tw": "ลูกวัว"
+    },
+    {
+      "index": "367",
+      "eText": "eText_Name_Second_114",
+      "kr": "수면양말",
+      "tw": "ถุงเท้าใส่นอน"
+    },
+    {
+      "index": "368",
+      "eText": "eText_Name_Second_115",
+      "kr": "수박",
+      "tw": "แตงโม"
+    },
+    {
+      "index": "369",
+      "eText": "eText_Name_Second_116",
+      "kr": "수세미",
+      "tw": "บวบ"
+    },
+    {
+      "index": "370",
+      "eText": "eText_Name_Second_117",
+      "kr": "쉐프",
+      "tw": "เชฟ"
+    },
+    {
+      "index": "371",
+      "eText": "eText_Name_Second_118",
+      "kr": "스웨터",
+      "tw": "Sweather"
+    },
+    {
+      "index": "372",
+      "eText": "eText_Name_Second_119",
+      "kr": "스케치북",
+      "tw": "สมุดร่างภาพ"
+    },
+    {
+      "index": "373",
+      "eText": "eText_Name_Second_120",
+      "kr": "시간표",
+      "tw": "ตารางเรียน"
+    },
+    {
+      "index": "374",
+      "eText": "eText_Name_Second_121",
+      "kr": "시인",
+      "tw": "กวี"
+    },
+    {
+      "index": "375",
+      "eText": "eText_Name_Second_122",
+      "kr": "식물원",
+      "tw": "สวนพฤกษา"
+    },
+    {
+      "index": "376",
+      "eText": "eText_Name_Second_123",
+      "kr": "식혜",
+      "tw": "ชิกฮเย"
+    },
+    {
+      "index": "377",
+      "eText": "eText_Name_Second_124",
+      "kr": "실로폰",
+      "tw": "ไซโลโฟน"
+    },
+    {
+      "index": "378",
+      "eText": "eText_Name_Second_125",
+      "kr": "쌈무",
+      "tw": "หัวไชเท้าดอง"
+    },
+    {
+      "index": "379",
+      "eText": "eText_Name_Second_126",
+      "kr": "아기",
+      "tw": "เด็ก"
+    },
+    {
+      "index": "380",
+      "eText": "eText_Name_Second_127",
+      "kr": "아메바",
+      "tw": "อะมีบา"
+    },
+    {
+      "index": "381",
+      "eText": "eText_Name_Second_128",
+      "kr": "아이디어뱅크",
+      "tw": "Idea Bank"
+    },
+    {
+      "index": "382",
+      "eText": "eText_Name_Second_129",
+      "kr": "아이스크림",
+      "tw": "ไอศครีม"
+    },
+    {
+      "index": "383",
+      "eText": "eText_Name_Second_130",
+      "kr": "안경",
+      "tw": "แว่นตา"
+    },
+    {
+      "index": "384",
+      "eText": "eText_Name_Second_131",
+      "kr": "안경",
+      "tw": "แว่นตา"
+    },
+    {
+      "index": "385",
+      "eText": "eText_Name_Second_132",
+      "kr": "알약",
+      "tw": "ยาเม็ด"
+    },
+    {
+      "index": "386",
+      "eText": "eText_Name_Second_133",
+      "kr": "알파카",
+      "tw": "อัลปาก้า"
+    },
+    {
+      "index": "387",
+      "eText": "eText_Name_Second_134",
+      "kr": "압구정",
+      "tw": "อัพกูจอง"
+    },
+    {
+      "index": "388",
+      "eText": "eText_Name_Second_135",
+      "kr": "야자수",
+      "tw": "ต้นมะพร้าว"
+    },
+    {
+      "index": "389",
+      "eText": "eText_Name_Second_136",
+      "kr": "어린이",
+      "tw": "เด็กน้อย"
+    },
+    {
+      "index": "390",
+      "eText": "eText_Name_Second_137",
+      "kr": "얼음틀",
+      "tw": "ที่ทำน้ำแข็ง"
+    },
+    {
+      "index": "391",
+      "eText": "eText_Name_Second_138",
+      "kr": "여름",
+      "tw": "ฤดูร้อน"
+    },
+    {
+      "index": "392",
+      "eText": "eText_Name_Second_139",
+      "kr": "여우",
+      "tw": "สุนัขจิ้งจอก"
+    },
+    {
+      "index": "393",
+      "eText": "eText_Name_Second_140",
+      "kr": "역삼역",
+      "tw": "สถานีรถไฟ"
+    },
+    {
+      "index": "394",
+      "eText": "eText_Name_Second_141",
+      "kr": "영혼",
+      "tw": "วิญญาณ"
+    },
+    {
+      "index": "395",
+      "eText": "eText_Name_Second_142",
+      "kr": "오렌지나무",
+      "tw": "ต้นส้ม"
+    },
+    {
+      "index": "396",
+      "eText": "eText_Name_Second_143",
+      "kr": "오리너구리",
+      "tw": "ตุ่นปากเป็ด"
+    },
+    {
+      "index": "397",
+      "eText": "eText_Name_Second_144",
+      "kr": "오믈렛",
+      "tw": "ไข่เจียว"
+    },
+    {
+      "index": "398",
+      "eText": "eText_Name_Second_145",
+      "kr": "오징어",
+      "tw": "ปลาหมึก"
+    },
+    {
+      "index": "399",
+      "eText": "eText_Name_Second_146",
+      "kr": "오토바이",
+      "tw": "มอเตอร์ไซค์"
+    },
+    {
+      "index": "400",
+      "eText": "eText_Name_Second_147",
+      "kr": "오트밀",
+      "tw": "ข้าวโอ๊ต"
+    },
+    {
+      "index": "401",
+      "eText": "eText_Name_Second_148",
+      "kr": "와인잔",
+      "tw": "แก้วไวน์"
+    },
+    {
+      "index": "402",
+      "eText": "eText_Name_Second_149",
+      "kr": "완두콩",
+      "tw": "ถั่วลันเตา"
+    },
+    {
+      "index": "403",
+      "eText": "eText_Name_Second_150",
+      "kr": "요트",
+      "tw": "เรือยอชท์"
+    },
+    {
+      "index": "404",
+      "eText": "eText_Name_Second_151",
+      "kr": "우동",
+      "tw": "อูด้ง"
+    },
+    {
+      "index": "405",
+      "eText": "eText_Name_Second_152",
+      "kr": "우산",
+      "tw": "ร่ม"
+    },
+    {
+      "index": "406",
+      "eText": "eText_Name_Second_153",
+      "kr": "우체통",
+      "tw": "ตู้ไปรษณีย์"
+    },
+    {
+      "index": "407",
+      "eText": "eText_Name_Second_154",
+      "kr": "유령",
+      "tw": "ผี"
+    },
+    {
+      "index": "408",
+      "eText": "eText_Name_Second_155",
+      "kr": "유리잔",
+      "tw": "แก้ว"
+    },
+    {
+      "index": "409",
+      "eText": "eText_Name_Second_156",
+      "kr": "이모티콘",
+      "tw": "อีโมติคอน"
+    },
+    {
+      "index": "410",
+      "eText": "eText_Name_Second_157",
+      "kr": "이목구비",
+      "tw": "หน้าตา"
+    },
+    {
+      "index": "411",
+      "eText": "eText_Name_Second_158",
+      "kr": "이상주의자",
+      "tw": "นิสัยแปลก ๆ"
+    },
+    {
+      "index": "412",
+      "eText": "eText_Name_Second_159",
+      "kr": "인삼",
+      "tw": "โสม"
+    },
+    {
+      "index": "413",
+      "eText": "eText_Name_Second_160",
+      "kr": "자몽",
+      "tw": "เกรปฟรุต"
+    },
+    {
+      "index": "414",
+      "eText": "eText_Name_Second_161",
+      "kr": "자장면",
+      "tw": "จาจังมยอน"
+    },
+    {
+      "index": "415",
+      "eText": "eText_Name_Second_162",
+      "kr": "잔디",
+      "tw": "สนามหญ้า"
+    },
+    {
+      "index": "416",
+      "eText": "eText_Name_Second_163",
+      "kr": "장갑",
+      "tw": "ถุงมือ"
+    },
+    {
+      "index": "417",
+      "eText": "eText_Name_Second_164",
+      "kr": "전용기",
+      "tw": "เครื่องบินส่วนตัว"
+    },
+    {
+      "index": "418",
+      "eText": "eText_Name_Second_165",
+      "kr": "좀비",
+      "tw": "ซอมบี้"
+    },
+    {
+      "index": "419",
+      "eText": "eText_Name_Second_166",
+      "kr": "종이학",
+      "tw": "นกกระเรียน"
+    },
+    {
+      "index": "420",
+      "eText": "eText_Name_Second_167",
+      "kr": "주인님",
+      "tw": "นายท่าน"
+    },
+    {
+      "index": "421",
+      "eText": "eText_Name_Second_168",
+      "kr": "증기기관차",
+      "tw": "รถจักรไอน้ำ"
+    },
+    {
+      "index": "422",
+      "eText": "eText_Name_Second_169",
+      "kr": "지렁이",
+      "tw": "ไส้เดือน"
+    },
+    {
+      "index": "423",
+      "eText": "eText_Name_Second_170",
+      "kr": "직장인",
+      "tw": "พนักงานบริษัท"
+    },
+    {
+      "index": "424",
+      "eText": "eText_Name_Second_171",
+      "kr": "천도복숭아",
+      "tw": "ลูพีชชอนโด"
+    },
+    {
+      "index": "425",
+      "eText": "eText_Name_Second_172",
+      "kr": "천사",
+      "tw": "นางฟ้า"
+    },
+    {
+      "index": "426",
+      "eText": "eText_Name_Second_173",
+      "kr": "초인종",
+      "tw": "กริ่ง"
+    },
+    {
+      "index": "427",
+      "eText": "eText_Name_Second_174",
+      "kr": "초코우유",
+      "tw": "นมช็อกโกแลต"
+    },
+    {
+      "index": "428",
+      "eText": "eText_Name_Second_175",
+      "kr": "초코칩쿠키",
+      "tw": "คุกกี้ช็อกชิพ"
+    },
+    {
+      "index": "429",
+      "eText": "eText_Name_Second_176",
+      "kr": "초콜렛",
+      "tw": "ช็อกโกแลต"
+    },
+    {
+      "index": "430",
+      "eText": "eText_Name_Second_177",
+      "kr": "축구공",
+      "tw": "ลูกบอล"
+    },
+    {
+      "index": "431",
+      "eText": "eText_Name_Second_178",
+      "kr": "카푸치노",
+      "tw": "คาปูชิโน"
+    },
+    {
+      "index": "432",
+      "eText": "eText_Name_Second_179",
+      "kr": "캥거루",
+      "tw": "จิงโจ้"
+    },
+    {
+      "index": "433",
+      "eText": "eText_Name_Second_180",
+      "kr": "케이블카",
+      "tw": "กระเช้าลอยฟ้า"
+    },
+    {
+      "index": "434",
+      "eText": "eText_Name_Second_181",
+      "kr": "코알라",
+      "tw": "โคอาล่า"
+    },
+    {
+      "index": "435",
+      "eText": "eText_Name_Second_182",
+      "kr": "코카콜라",
+      "tw": "โคคาโคล่า"
+    },
+    {
+      "index": "436",
+      "eText": "eText_Name_Second_183",
+      "kr": "코코넛",
+      "tw": "มะพร้าว"
+    },
+    {
+      "index": "437",
+      "eText": "eText_Name_Second_184",
+      "kr": "콩자반",
+      "tw": "ถั่วต้มซีอิ๊ว"
+    },
+    {
+      "index": "438",
+      "eText": "eText_Name_Second_185",
+      "kr": "쿠크다스",
+      "tw": "Couque Dasse"
+    },
+    {
+      "index": "439",
+      "eText": "eText_Name_Second_186",
+      "kr": "쿼카",
+      "tw": "ควอกก้า"
+    },
+    {
+      "index": "440",
+      "eText": "eText_Name_Second_187",
+      "kr": "키보드",
+      "tw": "คีบอร์ด"
+    },
+    {
+      "index": "441",
+      "eText": "eText_Name_Second_188",
+      "kr": "타조",
+      "tw": "นกกระจอกเทศ"
+    },
+    {
+      "index": "442",
+      "eText": "eText_Name_Second_189",
+      "kr": "텀블러",
+      "tw": "Tumbler"
+    },
+    {
+      "index": "443",
+      "eText": "eText_Name_Second_190",
+      "kr": "토끼",
+      "tw": "กระต่าย"
+    },
+    {
+      "index": "444",
+      "eText": "eText_Name_Second_191",
+      "kr": "토마토",
+      "tw": "มะเขือเทศ"
+    },
+    {
+      "index": "445",
+      "eText": "eText_Name_Second_192",
+      "kr": "토요일",
+      "tw": "วันเสาร์"
+    },
+    {
+      "index": "446",
+      "eText": "eText_Name_Second_193",
+      "kr": "튜브",
+      "tw": "หลอด"
+    },
+    {
+      "index": "447",
+      "eText": "eText_Name_Second_194",
+      "kr": "특선영화",
+      "tw": "หนังดีเด่น"
+    },
+    {
+      "index": "448",
+      "eText": "eText_Name_Second_195",
+      "kr": "파티플래너",
+      "tw": "Party Planer"
+    },
+    {
+      "index": "449",
+      "eText": "eText_Name_Second_196",
+      "kr": "펩시제로",
+      "tw": "Pepsi Zero"
+    },
+    {
+      "index": "450",
+      "eText": "eText_Name_Second_197",
+      "kr": "평양냉면",
+      "tw": "บะหมี่เย็นพย็องยาง"
+    },
+    {
+      "index": "451",
+      "eText": "eText_Name_Second_198",
+      "kr": "포도",
+      "tw": "องุ่น"
+    },
+    {
+      "index": "452",
+      "eText": "eText_Name_Second_199",
+      "kr": "포트와인",
+      "tw": "พอร์ตไวน์"
+    },
+    {
+      "index": "453",
+      "eText": "eText_Name_Second_200",
+      "kr": "푸딩",
+      "tw": "พุดดิ้ง"
+    },
+    {
+      "index": "454",
+      "eText": "eText_Name_Second_201",
+      "kr": "필름카메라",
+      "tw": "กล้องฟิล์ม"
+    },
+    {
+      "index": "455",
+      "eText": "eText_Name_Second_202",
+      "kr": "하이에나",
+      "tw": "ฮายีน่า"
+    },
+    {
+      "index": "456",
+      "eText": "eText_Name_Second_203",
+      "kr": "한강",
+      "tw": "แม่น้ำฮัน"
+    },
+    {
+      "index": "457",
+      "eText": "eText_Name_Second_204",
+      "kr": "한라산",
+      "tw": "เขาฮัลลา"
+    },
+    {
+      "index": "458",
+      "eText": "eText_Name_Second_205",
+      "kr": "항정살",
+      "tw": "ประหารชีวิต"
+    },
+    {
+      "index": "459",
+      "eText": "eText_Name_Second_206",
+      "kr": "해바라기",
+      "tw": "ทานตะวัน"
+    },
+    {
+      "index": "460",
+      "eText": "eText_Name_Second_207",
+      "kr": "해삼",
+      "tw": "ปลิงทะเล"
+    },
+    {
+      "index": "461",
+      "eText": "eText_Name_Second_208",
+      "kr": "햄버거",
+      "tw": "แฮมเบอร์เกอร์"
+    },
+    {
+      "index": "462",
+      "eText": "eText_Name_Second_209",
+      "kr": "햄스터",
+      "tw": "แฮมสเตอร์"
+    },
+    {
+      "index": "463",
+      "eText": "eText_Name_Second_210",
+      "kr": "향기",
+      "tw": "กลิ่นหอม"
+    },
+    {
+      "index": "464",
+      "eText": "eText_Name_Second_211",
+      "kr": "허수아비",
+      "tw": "หุ่นไล่กา"
+    },
+    {
+      "index": "465",
+      "eText": "eText_Name_Second_212",
+      "kr": "헬리콥터",
+      "tw": "เฮลิคอปเตอร์"
+    },
+    {
+      "index": "466",
+      "eText": "eText_Name_Second_213",
+      "kr": "호두과자",
+      "tw": "ขนมวอลนัท"
+    },
+    {
+      "index": "467",
+      "eText": "eText_Name_Second_214",
+      "kr": "호두파이",
+      "tw": "พายวอลนัท"
+    },
+    {
+      "index": "468",
+      "eText": "eText_Name_Second_215",
+      "kr": "호박고구마",
+      "tw": "มันหวานฟักทอง"
+    },
+    {
+      "index": "469",
+      "eText": "eText_Name_Second_216",
+      "kr": "홍시",
+      "tw": "ลูกพลับนิ่ม"
+    },
+    {
+      "index": "470",
+      "eText": "eText_Name_Second_217",
+      "kr": "화요일",
+      "tw": "วันอังคาร"
+    },
+    {
+      "index": "471",
+      "eText": "eText_Name_Second_218",
+      "kr": "회전문",
+      "tw": "ประตูหมุน"
+    },
+    {
+      "index": "472",
+      "eText": "eText_Name_Second_219",
+      "kr": "휘발유",
+      "tw": "น้ำมันเบนซิน"
+    },
+    {
+      "index": "473",
+      "eText": "eText_Name_Second_220",
+      "kr": "힙합클럽",
+      "tw": "Hiphop Club"
+    }
+  ]
+}

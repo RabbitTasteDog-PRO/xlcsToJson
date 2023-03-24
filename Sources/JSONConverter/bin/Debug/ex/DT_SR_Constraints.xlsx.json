@@ -1,0 +1,1354 @@
+{
+  "_CommonConstraints": [
+    {
+      "idx": "1",
+      "name": "NICKNAME_CHANGE_PRICE",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "2",
+      "name": "REVIEW_POPUP_VALUE",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "3",
+      "name": "GAMESPEED_2X_VALUE",
+      "type": "Double",
+      "value": "1.7"
+    },
+    {
+      "idx": "4",
+      "name": "GAMESPEED_3X_VALUE",
+      "type": "Double",
+      "value": "2.4"
+    },
+    {
+      "idx": "5",
+      "name": "STAGE_CHAR_JOIN_SLOTCNT",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "6",
+      "name": "ETCMODE_CHAR_JOIN_SLOTCNT",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "7",
+      "name": "STAGE_MAX_VALUE",
+      "type": "Int32",
+      "value": "35001"
+    },
+    {
+      "idx": "8",
+      "name": "STAGE_MAX_CLEAR_REPEAT_VALUE",
+      "type": "Int32",
+      "value": "35001"
+    },
+    {
+      "idx": "9",
+      "name": "STAGE_GROUP_UNIT_VALUE",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "10",
+      "name": "STAGE_BASE_GAIN_GOLD",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "11",
+      "name": "STAGE_INCREMENT_GOLD_RATE",
+      "type": "Double",
+      "value": "1.01"
+    },
+    {
+      "idx": "12",
+      "name": "TELEPORT_ACTIVE_MIN_STAGE",
+      "type": "Int32",
+      "value": "9000"
+    },
+    {
+      "idx": "13",
+      "name": "REBORN_MIN_STAGE",
+      "type": "Int32",
+      "value": "12"
+    },
+    {
+      "idx": "14",
+      "name": "REBORN_FAIRY_GOLDTIME_DEC_VAL",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "15",
+      "name": "GOLD_GAINTIME_MAX_DEC_VAL",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "16",
+      "name": "STAGE_PER_GAIN_SOUL_VALUE",
+      "type": "Int32",
+      "value": "25"
+    },
+    {
+      "idx": "17",
+      "name": "SOUL_INC_PERUNIT_STAGE",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "18",
+      "name": "SOUL_INC_PERUNIT_VALUE",
+      "type": "Double",
+      "value": "1.1"
+    },
+    {
+      "idx": "19",
+      "name": "GEM_INC_PERUNIT_VALUE",
+      "type": "Int32",
+      "value": "30000"
+    },
+    {
+      "idx": "20",
+      "name": "STAGE_PERUNIT_REBORN_NEED_GEM",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "21",
+      "name": "GOLDEVENT_RATE_VALUE",
+      "type": "Int32",
+      "value": "400"
+    },
+    {
+      "idx": "22",
+      "name": "GOLDEVENT_DELAY_STAGE",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "23",
+      "name": "GOLDEVENT_MAX_TOUCH_CNT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "24",
+      "name": "GOLDEVENT_PROCESS_TIME_SEC",
+      "type": "Int32",
+      "value": "7"
+    },
+    {
+      "idx": "25",
+      "name": "GOLDEVENT_TOUCH_PER_GOLDRATE",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "26",
+      "name": "GOLDEVENT_TOUCH_MIN_GAINGEM",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "27",
+      "name": "GOLDEVENT_TOUCH_MAX_GAINGEM",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "28",
+      "name": "GOLDEVENT_MAX_GAINGEM",
+      "type": "Int32",
+      "value": "500"
+    },
+    {
+      "idx": "29",
+      "name": "GOLDEVENT_AUTOPLAY_MAX_GAINGEM",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "30",
+      "name": "CHAR_RATINGUP_BASE_SOUL",
+      "type": "Int32",
+      "value": "150"
+    },
+    {
+      "idx": "31",
+      "name": "CHAR_RATINGUP_BASE_VALUE",
+      "type": "Double",
+      "value": "1.6"
+    },
+    {
+      "idx": "32",
+      "name": "CHAR_MAX_RATINGUP",
+      "type": "Int32",
+      "value": "40"
+    },
+    {
+      "idx": "33",
+      "name": "OFFLINE_POPUP_STANDARD_TIME_MIN",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "34",
+      "name": "OFFLINE_GOLD_PAYMENT_RATE",
+      "type": "Double",
+      "value": "10"
+    },
+    {
+      "idx": "35",
+      "name": "OFFLINE_ITEM_PAYMENT_PERUNIT_VALUE",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "36",
+      "name": "OFFLINE_AUTOPLAY_MINUTE_PLAYSTAGE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "37",
+      "name": "OFFLINE_AUTOPLAY_MINUTE_MAXSTAGE_RATE",
+      "type": "Double",
+      "value": "0.9"
+    },
+    {
+      "idx": "38",
+      "name": "FURY_STAGE_MAX_CHARGE_CNT",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "39",
+      "name": "FURY_ETC_MAX_CHARGE_CNT",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "40",
+      "name": "FURY_STAGE_CHARGE_TIME_MIN",
+      "type": "Int32",
+      "value": "90"
+    },
+    {
+      "idx": "41",
+      "name": "FURY_ETC_CHARGE_TIME_MIN",
+      "type": "Int32",
+      "value": "15"
+    },
+    {
+      "idx": "42",
+      "name": "FURY_STAGE_BASE_PROGRESS_TIME_SEC",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "43",
+      "name": "FURY_ETC_BASE_PROGRESS_TIME_SEC",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "44",
+      "name": "FURY_ETC_JOINCHARGE_BASE_CNT",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "45",
+      "name": "FURY_CHAR_ATKUP_RATE",
+      "type": "Int32",
+      "value": "2000"
+    },
+    {
+      "idx": "46",
+      "name": "FURY_CHAR_DEFUP_RATE",
+      "type": "Int32",
+      "value": "2000"
+    },
+    {
+      "idx": "47",
+      "name": "STAGE_JOIN_SPEECHBUBBLE_RATE",
+      "type": "Int32",
+      "value": "5000"
+    },
+    {
+      "idx": "48",
+      "name": "STAGE_JOIN_SPEECHBUBBLE_TIMESEC",
+      "type": "Int32",
+      "value": "6"
+    },
+    {
+      "idx": "49",
+      "name": "DUNGEON_JOIN_MIN_STAGE",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "50",
+      "name": "DUNGEON_KEY_RECOVERY_TIME_SEC",
+      "type": "Int32",
+      "value": "6000"
+    },
+    {
+      "idx": "51",
+      "name": "DUNGEON_KEY_RECOVERY_MAX_CNT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "52",
+      "name": "DUGEON_KEY_MAX_CNT",
+      "type": "Int32",
+      "value": "999"
+    },
+    {
+      "idx": "53",
+      "name": "DUGEON_CLEAR_MAX_TIME_SEC",
+      "type": "Int32",
+      "value": "60"
+    },
+    {
+      "idx": "54",
+      "name": "DUGEON_RESULT_CHANGE_PRICE",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "55",
+      "name": "DUGEON_RESULT_CHANGE_PERUNIT_PRICE",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "56",
+      "name": "PVP_JOIN_MIN_STAGE",
+      "type": "Int32",
+      "value": "150"
+    },
+    {
+      "idx": "57",
+      "name": "PVP_TICKET_RECOVERY_TIME_SEC",
+      "type": "Int32",
+      "value": "12000"
+    },
+    {
+      "idx": "58",
+      "name": "PVP_TICKET_RECOVERY_MAX_CNT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "59",
+      "name": "PVP_TICKET_MAX_CNT",
+      "type": "Int32",
+      "value": "99"
+    },
+    {
+      "idx": "60",
+      "name": "PVP_PLAY_TIME_SEC",
+      "type": "Int32",
+      "value": "60"
+    },
+    {
+      "idx": "61",
+      "name": "PVP_BASE_SCORE",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "62",
+      "name": "PVP_WIN_POINT",
+      "type": "Int32",
+      "value": "99"
+    },
+    {
+      "idx": "63",
+      "name": "PVP_DRAW_POIN",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "64",
+      "name": "PVP_LOSE_POINT",
+      "type": "Int32",
+      "value": "0"
+    },
+    {
+      "idx": "65",
+      "name": "PVP_WIN_GEM",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "66",
+      "name": "PVP_DRAW_GEM",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "67",
+      "name": "PVP_LOSE_GEM",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "68",
+      "name": "PVP_DONE_SPEED3X_TIME_SEC",
+      "type": "Int32",
+      "value": "60"
+    },
+    {
+      "idx": "69",
+      "name": "PVP_WIN_REWARDBOX_ID",
+      "type": "Int32",
+      "value": "0"
+    },
+    {
+      "idx": "70",
+      "name": "PVP_DRAW_REWARDBOX_ID",
+      "type": "Int32",
+      "value": "0"
+    },
+    {
+      "idx": "71",
+      "name": "PVP_LOSE_REWARDBOX_ID",
+      "type": "Int32",
+      "value": "0"
+    },
+    {
+      "idx": "72",
+      "name": "PVP_ATK_CORRECT_VALUE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "73",
+      "name": "PVP_DEF_CORRECT_VALUE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "74",
+      "name": "PVP_HP_CORRECT_VALUE",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "75",
+      "name": "INFINITE_DUNGEON_MIN_STAGE",
+      "type": "Int32",
+      "value": "150"
+    },
+    {
+      "idx": "76",
+      "name": "INFINITE_DUNGEON_PLAY_TIME_SEC",
+      "type": "Int32",
+      "value": "60"
+    },
+    {
+      "idx": "77",
+      "name": "WEAPON_AWAKE_ON_STAGE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "78",
+      "name": "WEAPON_MAX_AWAKE_VALUE",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "79",
+      "name": "WEAPON_BASE_MAX_LEVEL_VALUE",
+      "type": "Int32",
+      "value": "15"
+    },
+    {
+      "idx": "80",
+      "name": "WEAPON_AWAKE_UNIT_LEVEL",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "81",
+      "name": "WEAPON_NORMAL_AWAKE_PRICE",
+      "type": "Int32",
+      "value": "500"
+    },
+    {
+      "idx": "82",
+      "name": "WEAPON_MAGIC_AWAKE_PRICE",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "83",
+      "name": "WEAPON_RARE_AWAKE_PRICE",
+      "type": "Int32",
+      "value": "2000"
+    },
+    {
+      "idx": "84",
+      "name": "WEAPON_EPIC_AWAKE_PRICE",
+      "type": "Int32",
+      "value": "4000"
+    },
+    {
+      "idx": "85",
+      "name": "WEAPON_LEGENDARY_AWAKE_PRICE",
+      "type": "Int32",
+      "value": "6000"
+    },
+    {
+      "idx": "86",
+      "name": "WEAPON_TREASURE_AWAKE_PRICE",
+      "type": "Int32",
+      "value": "8000"
+    },
+    {
+      "idx": "87",
+      "name": "WEAPON_2AWAKE_PRICEUP_RATE",
+      "type": "Double",
+      "value": "2"
+    },
+    {
+      "idx": "88",
+      "name": "WEAPON_3AWAKE_PRICEUP_RATE",
+      "type": "Double",
+      "value": "3"
+    },
+    {
+      "idx": "89",
+      "name": "WEAPON_1AWAKE_EFFECTUP_RATE",
+      "type": "Double",
+      "value": "1.5"
+    },
+    {
+      "idx": "90",
+      "name": "WEAPON_2AWAKE_EFFECTUP_RATE",
+      "type": "Double",
+      "value": "2.5"
+    },
+    {
+      "idx": "91",
+      "name": "WEAPON_3AWAKE_EFFECTUP_RATE",
+      "type": "Double",
+      "value": "4"
+    },
+    {
+      "idx": "92",
+      "name": "WEAPON_NORMAL_BASEENCHANT_WEAPONCNT",
+      "type": "Int32",
+      "value": "20"
+    },
+    {
+      "idx": "93",
+      "name": "WEAPON_MAGIC_BASEENCHANT_WEAPONCNT",
+      "type": "Int32",
+      "value": "15"
+    },
+    {
+      "idx": "94",
+      "name": "WEAPON_RARE_BASEENCHANT_WEAPONCNT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "95",
+      "name": "WEAPON_EPIC_BASEENCHANT_WEAPONCNT",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "96",
+      "name": "WEAPON_LEGENDARY_BASEENCHANT_WEAPONCNT",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "97",
+      "name": "WEAPON_TREASURE_BASEENCHANT_WEAPONCNT",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "98",
+      "name": "WEAPON_NORMAL_BASEENCHANT_STONE",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "99",
+      "name": "WEAPON_MAGIC_BASEENCHANT_STONE",
+      "type": "Int32",
+      "value": "250"
+    },
+    {
+      "idx": "100",
+      "name": "WEAPON_RARE_BASEENCHANT_STONE",
+      "type": "Int32",
+      "value": "500"
+    },
+    {
+      "idx": "101",
+      "name": "WEAPON_EPIC_BASEENCHANT_STONE",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "102",
+      "name": "WEAPON_LEGENDARY_BASEENCHANT_STONE",
+      "type": "Int32",
+      "value": "2000"
+    },
+    {
+      "idx": "103",
+      "name": "WEAPON_TREASURE_BASEENCHANT_STONE",
+      "type": "Int32",
+      "value": "4000"
+    },
+    {
+      "idx": "104",
+      "name": "WEAPON_MAX_CNT",
+      "type": "Int32",
+      "value": "99999"
+    },
+    {
+      "idx": "105",
+      "name": "GUILD_MAX_VALUE",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "106",
+      "name": "GUILD_CREATE_PRICE",
+      "type": "Int32",
+      "value": "300"
+    },
+    {
+      "idx": "107",
+      "name": "GUILD_MESSAGE_COOLTIME",
+      "type": "Int32",
+      "value": "43200"
+    },
+    {
+      "idx": "108",
+      "name": "GUILDRAID_DAY_MAX_JOIN_CNT",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "109",
+      "name": "GUILDRAID_PLAY_TIME_MIN",
+      "type": "Int32",
+      "value": "60"
+    },
+    {
+      "idx": "110",
+      "name": "GUILDRAID_SPARE_CHAR_JOIN_TIME_MIN",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "111",
+      "name": "START_GIVE_CHAR_ID",
+      "type": "Int32",
+      "value": "10001"
+    },
+    {
+      "idx": "112",
+      "name": "MAX_BOXBAG_CNT",
+      "type": "Int32",
+      "value": "500"
+    },
+    {
+      "idx": "113",
+      "name": "FEVER_LEVELUP_UNIT_GEM_VALUE",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "114",
+      "name": "FEVER_LEVELUP_UNIT_GEM_VALUE_MAX",
+      "type": "Int32",
+      "value": "500"
+    },
+    {
+      "idx": "115",
+      "name": "OFFLINE_GAIN_REWARD_PERCENT",
+      "type": "Double",
+      "value": "100"
+    },
+    {
+      "idx": "116",
+      "name": "MAX_SKILL_LEVEL",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "117",
+      "name": "TOWER_OPEN_REBIRTH_CNT",
+      "type": "Int32",
+      "value": "300"
+    },
+    {
+      "idx": "118",
+      "name": "TOWER_DAY_CHARGE_KEY",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "119",
+      "name": "TOWER_DAY_KEYINIT_HOUR",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "120",
+      "name": "TOWER_MONSTER_HP",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "121",
+      "name": "TOWER_DEFEAT_REWARD_GEM",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "122",
+      "name": "MAX_DAY_AWAKE_WEAPON_CNT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "123",
+      "name": "EQUIP_DUNGEON_MAX_PARTY_SLOT",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "124",
+      "name": "EQUIP_DUNGEON_MAX_CHARGE_TICKET",
+      "type": "Int32",
+      "value": "12"
+    },
+    {
+      "idx": "125",
+      "name": "EQUIP_DUNGEON_TICKET_RECHARGE_TIME_SEC",
+      "type": "Int32",
+      "value": "600"
+    },
+    {
+      "idx": "126",
+      "name": "EQUIP_DUNGEON_DEFEAT_GAIN_GEM_UNIT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "127",
+      "name": "BATTLE_DIALOG_SEC",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "128",
+      "name": "BATTLE_DIALOG_ANSWER_SEC",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "129",
+      "name": "TOWER_DIFFICULTY_EASY",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "130",
+      "name": "TOWER_DIFFICULTY_NORMAL",
+      "type": "Int32",
+      "value": "1500"
+    },
+    {
+      "idx": "131",
+      "name": "TOWER_DIFFICULTY_HARD",
+      "type": "Int32",
+      "value": "3500"
+    },
+    {
+      "idx": "132",
+      "name": "TOWER_DIFFICULTY_LEGEND",
+      "type": "Int32",
+      "value": "6500"
+    },
+    {
+      "idx": "133",
+      "name": "TOWER_DIFFICULTY_GOD",
+      "type": "Int32",
+      "value": "10500"
+    },
+    {
+      "idx": "134",
+      "name": "REBIRTH_PRICE_GEM_UNIT",
+      "type": "Double",
+      "value": "1"
+    },
+    {
+      "idx": "135",
+      "name": "TOWER_CLEAR_MAX_TIME_SEC",
+      "type": "Int32",
+      "value": "60"
+    },
+    {
+      "idx": "136",
+      "name": "REBIRTH_THREE_BT_OPEN",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "137",
+      "name": "REBIRTH_SOUL_MULTIPLY_TWO",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "138",
+      "name": "REBIRTH_SOUL_MULTIPLY_THREE",
+      "type": "Int32",
+      "value": "4"
+    },
+    {
+      "idx": "139",
+      "name": "EVENT_PAYMENT_MAX",
+      "type": "Int32",
+      "value": "50000"
+    },
+    {
+      "idx": "140",
+      "name": "HERO_LVUP_GAIN_GOLD",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "141",
+      "name": "HERO_LVUP_INCREMENT_GOLD_RATE",
+      "type": "Double",
+      "value": "1.005"
+    },
+    {
+      "idx": "142",
+      "name": "HERO_LVUP_GOLD_INC_PERUNIT_LV",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "143",
+      "name": "HERO_LVUP_INC_PERUNIT_VALUE",
+      "type": "Double",
+      "value": "10"
+    },
+    {
+      "idx": "144",
+      "name": "HERO_LVUP_GAIN_GOLD_LOW",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "145",
+      "name": "HERO_LVUP_GAIN_GOLD_RATE",
+      "type": "Double",
+      "value": "1"
+    },
+    {
+      "idx": "146",
+      "name": "REBORN_ON_STAGE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "147",
+      "name": "HERO_GRADE_INC_STATUS_RATE",
+      "type": "Double",
+      "value": "1.2"
+    },
+    {
+      "idx": "149",
+      "name": "BATTLE_DIALOG_RATE",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "150",
+      "name": "FEVER_SEC_GOLD_RATE",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "151",
+      "name": "FURY_ETC_INC_TIME_SEC",
+      "type": "Int32",
+      "value": "200"
+    },
+    {
+      "idx": "152",
+      "name": "PC_START_INTERVAL_TIME_SEC",
+      "type": "Double",
+      "value": "0.3"
+    },
+    {
+      "idx": "153",
+      "name": "FAIRY_GOLD_COOLTIME_MIN",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "154",
+      "name": "FAIRY_DIALOG_SEC",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "155",
+      "name": "FAIRY_DIALOG_MAX_STAGE",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "156",
+      "name": "REBORN_GEM_MAX",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "157",
+      "name": "MAILBOX_COUNT_MAX",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "158",
+      "name": "FEVER_CHANGE_RATE",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "159",
+      "name": "FEVER_GAP_VALUE",
+      "type": "Int32",
+      "value": "20"
+    },
+    {
+      "idx": "160",
+      "name": "FEVER_ENABLE_MIN_STAGE",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "161",
+      "name": "FEVER_ONETIME_GAIN_MAXGEM",
+      "type": "Int32",
+      "value": "50"
+    },
+    {
+      "idx": "162",
+      "name": "FEVER_ONETOURCH_GAIN_GEM",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "163",
+      "name": "FEVER_RESPAWN_MAX_COUNT",
+      "type": "Int32",
+      "value": "8"
+    },
+    {
+      "idx": "165",
+      "name": "FEVER_RESPAWN_GEN_DELAY",
+      "type": "Double",
+      "value": "0.1"
+    },
+    {
+      "idx": "166",
+      "name": "ONESTORE_RESEARCH_REBIRTH",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "167",
+      "name": "FEVER_FAIRY_LIFETIME",
+      "type": "Double",
+      "value": "8"
+    },
+    {
+      "idx": "168",
+      "name": "SHOP_TIMEPACKAGE_DAY_MAXBUY_CNT",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "169",
+      "name": "SHOP_TIMEPACKAGE_WEEK_MAXBUY_CNT",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "170",
+      "name": "SHOP_TIMEPACKAGE_MONTH_MAXBUY_CNT",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "171",
+      "name": "FEVER_FAIRY_ANICOUNT",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "172",
+      "name": "FEVER_FAIRY_ANISPEED",
+      "type": "Double",
+      "value": "1.5"
+    },
+    {
+      "idx": "173",
+      "name": "EQUIP_OPEN_REBIRTH_CNT",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "174",
+      "name": "FEVER_GOLD_GAIN_MULTIPLE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "175",
+      "name": "SHOP_ADVENTURE_GAIN_GOLD_RATE",
+      "type": "Int32",
+      "value": "20"
+    },
+    {
+      "idx": "176",
+      "name": "SHOP_ADVENTURE_BASE_GAIN_GOLD",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "177",
+      "name": "REBORN_GEM_MAX_TWO",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "178",
+      "name": "REBORN_GEM_MAX_FOUR",
+      "type": "Int32",
+      "value": "2000"
+    },
+    {
+      "idx": "179",
+      "name": "FAIRY_LVUP_INCREMENT_GOLD_RATE",
+      "type": "Double",
+      "value": "1.027"
+    },
+    {
+      "idx": "180",
+      "name": "INVENTORY_ALL_TAKE_COUNT",
+      "type": "Int32",
+      "value": "300"
+    },
+    {
+      "idx": "181",
+      "name": "ACHIEVEMENT_ROW_COUNT",
+      "type": "Int32",
+      "value": "20"
+    },
+    {
+      "idx": "182",
+      "name": "DOUBLE_SPEEDUP_TIMESCALE",
+      "type": "Int32",
+      "value": "3.5"
+    },
+    {
+      "idx": "183",
+      "name": "CHECK_ATTENDANCE_MIN_REBIRTH",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "184",
+      "name": "SHOP_ADVENTURE_GAIN_GOLD_RATE_AD",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "185",
+      "name": "SHOP_BOX_GAIN_WEAPONE_AD",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "186",
+      "name": "SHOP_GEM_GAIN_GEMS_AD",
+      "type": "Int32",
+      "value": "5"
+    },
+    {
+      "idx": "187",
+      "name": "REBORN_DOUBLE_AD",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "188",
+      "name": "REBORN_QUADRUPLE_AD",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "189",
+      "name": "EQUIP_DUNGEON_STONE_AD",
+      "type": "Int32",
+      "value": "200"
+    },
+    {
+      "idx": "190",
+      "name": "EVENT_GIFT_AD",
+      "type": "Int32",
+      "value": "300"
+    },
+    {
+      "idx": "191",
+      "name": "OFFLINE_POPUP_WARPGATE_LEVEL_GEM",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "192",
+      "name": "OFFLINE_POPUP_WAPRGATE_GEM_MIN",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "193",
+      "name": "SHOP_TIMEPACKAGE_YEAR_MAXBUY_CNT  ",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "194",
+      "name": "PVP_REBIRTH_CNT",
+      "type": "Int32",
+      "value": "1000"
+    },
+    {
+      "idx": "195",
+      "name": "PVP_INIT_SCORE",
+      "type": "Int32",
+      "value": "500"
+    },
+    {
+      "idx": "196",
+      "name": "PVP_BATTLE_HP_RATE",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "197",
+      "name": "PVP_TICKET_RECHARGE_TIME_SEC",
+      "type": "Int32",
+      "value": "3600"
+    },
+    {
+      "idx": "198",
+      "name": "PVP_MAX_CHARGE_TICKET",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "199",
+      "name": "SKILL_LEVELUP_ONCE_MAX_LEVEL",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "200",
+      "name": "PVP_BATTLE_LIMITED_TIME",
+      "type": "Int32",
+      "value": "99"
+    },
+    {
+      "idx": "201",
+      "name": "PVP_BATTLE_WIN_POINT",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "202",
+      "name": "PVP_BATTLE_WIN_HIGH_SCORE",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "203",
+      "name": "PVP_BATTLE_WIN_BONUS_POINT",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "204",
+      "name": "PVP_BATTLE_WIN_TOKEN",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "205",
+      "name": "PVP_BATTLE_DEFEAT_POINT",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "206",
+      "name": "PVP_BATTLE_DEFEAT_TOKEN",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "207",
+      "name": "PVP_BATTLE_WIN_BOX",
+      "type": "Int32",
+      "value": "4001"
+    },
+    {
+      "idx": "208",
+      "name": "PVP_BATTLE_DEFEAT_BOX",
+      "type": "Int32",
+      "value": "4002"
+    },
+    {
+      "idx": "209",
+      "name": "PVP_DUMMY_GRADE_DOWN",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "210",
+      "name": "PVP_REMAIN_MIN_JOIN_TIME_SEC",
+      "type": "Int32",
+      "value": "30"
+    },
+    {
+      "idx": "211",
+      "name": "PVP_REFRESH_COOLTIME_RESET_COST",
+      "type": "Int32",
+      "value": "10"
+    },
+    {
+      "idx": "212",
+      "name": "PVP_OPPENENT_MAX_COUNT",
+      "type": "Int32",
+      "value": "3"
+    },
+    {
+      "idx": "213",
+      "name": "PVP_MAX_GAIN_TICKET",
+      "type": "Int32",
+      "value": "999"
+    },
+    {
+      "idx": "214",
+      "name": "PVP_REFRESH_SPENDGEM",
+      "type": "Int32",
+      "value": "100"
+    },
+    {
+      "idx": "215",
+      "name": "PVP_REFRESH_COOLTIME_SEC",
+      "type": "Int32",
+      "value": "120"
+    },
+    {
+      "idx": "216",
+      "name": "PVP_DUMMY_MATCH_SCORE",
+      "type": "Int32",
+      "value": "600"
+    },
+    {
+      "idx": "217",
+      "name": "PVP_DUMMY_MATCH_COUNT",
+      "type": "Int32",
+      "value": "2"
+    },
+    {
+      "idx": "218",
+      "name": "OFFLINE_MAXLEVEL_UNIT_VALUE",
+      "type": "Double",
+      "value": "0.98"
+    },
+    {
+      "idx": "219",
+      "name": "TREE_LIFE_HARVEST_COOLTIME_SEC",
+      "type": "Int32",
+      "value": "28500"
+    },
+    {
+      "idx": "220",
+      "name": "TREE_LIFE_MAX_LEVEL",
+      "type": "Int32",
+      "value": "40"
+    },
+    {
+      "idx": "221",
+      "name": "TREE_LIFE_MAX_COUNT",
+      "type": "Int32",
+      "value": "1010000"
+    },
+    {
+      "idx": "222",
+      "name": "HERO_DIALOG_MIN_STAGE",
+      "type": "Int32",
+      "value": "26"
+    },
+    {
+      "idx": "223",
+      "name": "FAIRY_DIALOG_MIN_STAGE",
+      "type": "Int32",
+      "value": "26"
+    },
+    {
+      "idx": "224",
+      "name": "TUTORIAL_MAX_STAGE",
+      "type": "Int32",
+      "value": "25"
+    },
+    {
+      "idx": "225",
+      "name": "TUTORIAL_START_STAGE",
+      "type": "Int32",
+      "value": "1"
+    },
+    {
+      "idx": "226",
+      "name": "ADVIEW_COOLTIME_SEC",
+      "type": "Int32",
+      "value": "120"
+    },
+    {
+      "idx": "227",
+      "name": "TREE_DIALOG_DELAY",
+      "type": "Int32",
+      "value": "5"
+    }
+  ]
+}

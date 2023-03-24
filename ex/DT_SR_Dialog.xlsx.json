@@ -1,0 +1,1891 @@
+{
+  "dialog": [
+    {
+      "idx": "70001",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "dialog_a_101",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_101"
+    },
+    {
+      "idx": "70002",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "dialog_a_102",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_102"
+    },
+    {
+      "idx": "70003",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "dialog_a_103",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_103"
+    },
+    {
+      "idx": "70004",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "dialog_a_104",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_104"
+    },
+    {
+      "idx": "70005",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "dialog_a_105",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_105"
+    },
+    {
+      "idx": "70006",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "dialog_a_106",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_106"
+    },
+    {
+      "idx": "70007",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_107",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_107"
+    },
+    {
+      "idx": "70008",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_201",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_201"
+    },
+    {
+      "idx": "70009",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_202",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_202"
+    },
+    {
+      "idx": "70010",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_203",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_203"
+    },
+    {
+      "idx": "70011",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_204",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_204"
+    },
+    {
+      "idx": "70012",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_205",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_205"
+    },
+    {
+      "idx": "70013",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_206",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_206"
+    },
+    {
+      "idx": "70014",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_207",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_207"
+    },
+    {
+      "idx": "70015",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_301",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_301"
+    },
+    {
+      "idx": "70016",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_302",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_302"
+    },
+    {
+      "idx": "70017",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_303",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_303"
+    },
+    {
+      "idx": "70018",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_304",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_304"
+    },
+    {
+      "idx": "70019",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_305",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_305"
+    },
+    {
+      "idx": "70020",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_306",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_306"
+    },
+    {
+      "idx": "70021",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10003",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_307",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_307"
+    },
+    {
+      "idx": "70022",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_401",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_401"
+    },
+    {
+      "idx": "70023",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_402",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_402"
+    },
+    {
+      "idx": "70024",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_403",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_403"
+    },
+    {
+      "idx": "70025",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_404",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_404"
+    },
+    {
+      "idx": "70026",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_405",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_405"
+    },
+    {
+      "idx": "70027",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_406",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_406"
+    },
+    {
+      "idx": "70028",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_407",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_407"
+    },
+    {
+      "idx": "70029",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_501",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_501"
+    },
+    {
+      "idx": "70030",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_502",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_502"
+    },
+    {
+      "idx": "70031",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_503",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_503"
+    },
+    {
+      "idx": "70032",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_504",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_504"
+    },
+    {
+      "idx": "70033",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_505",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_505"
+    },
+    {
+      "idx": "70034",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_506",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_506"
+    },
+    {
+      "idx": "70035",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10005",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_507",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_507"
+    },
+    {
+      "idx": "70036",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_601",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_601"
+    },
+    {
+      "idx": "70037",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_602",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_602"
+    },
+    {
+      "idx": "70038",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_603",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_603"
+    },
+    {
+      "idx": "70039",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_604",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_604"
+    },
+    {
+      "idx": "70040",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_605",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_605"
+    },
+    {
+      "idx": "70041",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_606",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_606"
+    },
+    {
+      "idx": "70042",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10006",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_607",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_607"
+    },
+    {
+      "idx": "70043",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_701",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_701"
+    },
+    {
+      "idx": "70044",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_702",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_702"
+    },
+    {
+      "idx": "70045",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_703",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_703"
+    },
+    {
+      "idx": "70046",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_704",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_704"
+    },
+    {
+      "idx": "70047",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_705",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_705"
+    },
+    {
+      "idx": "70048",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_706",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_706"
+    },
+    {
+      "idx": "70049",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10007",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_707",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10008",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_707"
+    },
+    {
+      "idx": "70050",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_801",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "diblog_b_801"
+    },
+    {
+      "idx": "70051",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_802",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_802"
+    },
+    {
+      "idx": "70052",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_803",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10003",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_803"
+    },
+    {
+      "idx": "70053",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_804",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_804"
+    },
+    {
+      "idx": "70054",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_805",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10005",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "diblog_b_805"
+    },
+    {
+      "idx": "70055",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "dialog_a_806",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10006",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_806"
+    },
+    {
+      "idx": "70056",
+      "dialog_1_delay": "2",
+      "dialog_1_cha_id": "10008",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "dialog_a_807",
+      "dialog_2_delay": "7",
+      "dialog_2_cha_id": "10007",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "diblog_b_807"
+    }
+  ],
+  "guide_fairy": [
+    {
+      "idx": "70201",
+      "dialog_1": "tutorial_c_001",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70202",
+      "dialog_1": "tutorial_c_002",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70203",
+      "dialog_1": "tutorial_c_003",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70204",
+      "dialog_1": "tutorial_c_004",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70205",
+      "dialog_1": "tutorial_c_005",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70206",
+      "dialog_1": "tutorial_c_006",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70207",
+      "dialog_1": "tutorial_c_007",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70208",
+      "dialog_1": "tutorial_c_008",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70209",
+      "dialog_1": "tutorial_c_009",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70210",
+      "dialog_1": "tutorial_c_010",
+      "dialog_1_delay": "0"
+    },
+    {
+      "idx": "70211",
+      "dialog_1": "tutorial_c_011",
+      "dialog_1_delay": "0"
+    }
+  ],
+  "tutorial": [
+    {
+      "idx": "70101",
+      "stage": "1",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_001",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_001"
+    },
+    {
+      "idx": "70102",
+      "stage": "2",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_002",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_002"
+    },
+    {
+      "idx": "70103",
+      "stage": "3",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_003",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_003"
+    },
+    {
+      "idx": "70104",
+      "stage": "4",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_004",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_004"
+    },
+    {
+      "idx": "70105",
+      "stage": "5",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_005",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_005"
+    },
+    {
+      "idx": "70106",
+      "stage": "6",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_006",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "tutorial_b_006"
+    },
+    {
+      "idx": "70107",
+      "stage": "7",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_007",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_007"
+    },
+    {
+      "idx": "70108",
+      "stage": "8",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "tutorial_a_008",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_008"
+    },
+    {
+      "idx": "70109",
+      "stage": "9",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_009",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "tutorial_b_009"
+    },
+    {
+      "idx": "70110",
+      "stage": "10",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "tutorial_b_010",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_a_010"
+    },
+    {
+      "idx": "70111",
+      "stage": "11",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "tutorial_a_011",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "tutorial_b_011"
+    },
+    {
+      "idx": "70112",
+      "stage": "12",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_012",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "tutorial_b_012"
+    },
+    {
+      "idx": "70113",
+      "stage": "13",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_013",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "tutorial_b_013"
+    },
+    {
+      "idx": "70114",
+      "stage": "14",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "tutorial_a_014",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_014"
+    },
+    {
+      "idx": "70115",
+      "stage": "15",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "dn_left",
+      "dialog_1": "tutorial_a_015",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_left",
+      "dialog_2": "tutorial_b_015"
+    },
+    {
+      "idx": "70116",
+      "stage": "16",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_016",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "tutorial_b_016"
+    },
+    {
+      "idx": "70117",
+      "stage": "17",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_017",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "dn_left",
+      "dialog_2": "tutorial_b_017"
+    },
+    {
+      "idx": "70118",
+      "stage": "18",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "tutorial_a_018",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_018"
+    },
+    {
+      "idx": "70119",
+      "stage": "19",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_left",
+      "dialog_1": "tutorial_a_019",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_019"
+    },
+    {
+      "idx": "70120",
+      "stage": "20",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_020",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10001",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_020"
+    },
+    {
+      "idx": "70121",
+      "stage": "21",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10001",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_021",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_021"
+    },
+    {
+      "idx": "70122",
+      "stage": "22",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_022",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_022"
+    },
+    {
+      "idx": "70123",
+      "stage": "23",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_023",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_023"
+    },
+    {
+      "idx": "70124",
+      "stage": "24",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10002",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_024",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10004",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_024"
+    },
+    {
+      "idx": "70125",
+      "stage": "25",
+      "dialog_1_delay": "1",
+      "dialog_1_cha_id": "10004",
+      "d1_bubble_type": "up_right",
+      "dialog_1": "tutorial_a_025",
+      "dialog_2_delay": "6",
+      "dialog_2_cha_id": "10002",
+      "d2_bubble_type": "up_right",
+      "dialog_2": "tutorial_b_025"
+    }
+  ],
+  "prologue": [
+    {
+      "idx": "1",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_01"
+    },
+    {
+      "idx": "2",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_02"
+    },
+    {
+      "idx": "3",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_03"
+    },
+    {
+      "idx": "4",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_04"
+    },
+    {
+      "idx": "5",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_05"
+    },
+    {
+      "idx": "6",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_06"
+    },
+    {
+      "idx": "7",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_07"
+    },
+    {
+      "idx": "8",
+      "cha_id": "10004",
+      "name_id": "prologue_name_01",
+      "desc_id": "prologue_desc_08"
+    }
+  ],
+  "tutorial_touch": [
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "1",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_001",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "2",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_0011",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "3",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_0012",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "4",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "5",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "GIFT_BASIC_TUTORIAL_START",
+      "arrow_direction": "NONE",
+      "save_step": "5"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "6",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_002",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "6"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "7",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_003",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "8",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CHAR",
+      "arrow_direction": "RIGHT",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "9",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_TAB_WEAPON",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "10",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_008",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "11",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_009",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "12",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_010",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "13",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_WEAPON_ITEM",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "14",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_WEAPON_UPGRADE",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "15",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_WEAPON_UPGRADE_UP",
+      "arrow_direction": "TOP",
+      "save_step": "15"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "16",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_011",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "17",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_WEAPON_UPGRADE_CLOSE",
+      "arrow_direction": "RIGHT",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "18",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_TAB_COSTUME",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "19",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_012",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "20",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CLOSE",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "21",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_013",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "21"
+    },
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "22",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "22"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "1",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_f_001",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "2",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "3",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_TAB_BOX",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "4",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_f_002",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "4"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "5",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_ANGELA_RARE_BOX",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "6",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_BOX_BUY",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "7",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_BOX_OKAY",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "8",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_CLOSE",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "9",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "10",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CHAR",
+      "arrow_direction": "RIGHT",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "11",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_TAB_WEAPON",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "12",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_ANGELA_RARE_WEAPON",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "13",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_ANGELA_RARE_WEAPON_EQUIP",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "14",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CLOSE",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "15",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_f_003",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "16",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "16"
+    },
+    {
+      "tutorial_division": "REBIRTH_1",
+      "step": "1",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_f_004",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_1",
+      "step": "2",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_REB",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_1",
+      "step": "3",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_REB_BASIC",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_1",
+      "step": "4",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_POPUP_YES",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_1",
+      "step": "5",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "5"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "1",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_013_re",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "2",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "3",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CHAR",
+      "arrow_direction": "RIGHT",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "4",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_TAB_SKILL",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "5",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_004",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "6",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CHAR_UPGRADE",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "7",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CHAR_UPGRADE_UP",
+      "arrow_direction": "RIGHT",
+      "save_step": "7"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "8",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_005",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "9",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CHAR_UPGRADE_CLOSE",
+      "arrow_direction": "RIGHT",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "10",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_006",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "11",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_SKILL_LEVEL_UP",
+      "arrow_direction": "LEFT",
+      "save_step": "11"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "12",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_CM_CLOSE",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "13",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_018",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "REBIRTH_2",
+      "step": "14",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "14"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "1",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_013_re",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "2",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP",
+      "arrow_direction": "TOP",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "3",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_ADVENTURE_2X_UP",
+      "arrow_direction": "BOTTOM",
+      "save_step": "3"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "4",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_014",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "4"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "5",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_TAB_FAIRY",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "6",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_015",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "7",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_MAX_LEVEL_UP",
+      "arrow_direction": "BOTTOM",
+      "save_step": "7"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "8",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_MAX_LEVEL_BUY",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "9",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_016",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "10",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SEL_SHOP_CLOSE",
+      "arrow_direction": "BOTTOM",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "11",
+      "cha_id": "10004",
+      "name_id": "tutorial_d_001",
+      "desc_id": "tutorial_e_017",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "12",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "GIFT_BASIC_TUTORIAL_END",
+      "arrow_direction": "NONE",
+      "save_step": "12"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "13",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "13"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "1",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "SHOW_CURTAIN",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "2",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "INTRO_SCREEN_SWITCHING_01",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "3",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "tutorial_intro_01",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "4",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "INTRO_SCREEN_SWITCHING_02",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "5",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "tutorial_intro_02",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "6",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "INTRO_SCREEN_SWITCHING_03",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "7",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "tutorial_intro_03",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "8",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "INTRO_SCREEN_SWITCHING_04",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "9",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "tutorial_intro_04",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "10",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "HIDE_CURTAIN",
+      "arrow_direction": "NONE",
+      "save_step": "0"
+    },
+    {
+      "tutorial_division": "INTRO",
+      "step": "11",
+      "cha_id": "0",
+      "name_id": "0",
+      "desc_id": "0",
+      "target_ui": "NONE",
+      "arrow_direction": "NONE",
+      "save_step": "11"
+    }
+  ],
+  "tutorial_reward": [
+    {
+      "tutorial_division": "BASIC_TUTORIAL",
+      "step": "5",
+      "reward_type": "REWARD_GEM",
+      "v1": "500",
+      "v2": "0",
+      "v3": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "5",
+      "reward_type": "REWARD_GEM",
+      "v1": "100",
+      "v2": "0",
+      "v3": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "3",
+      "reward_type": "REWARD_BUFF",
+      "v1": "2",
+      "v2": "2",
+      "v3": "1800"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "12",
+      "reward_type": "REWARD_GEM",
+      "v1": "300",
+      "v2": "0",
+      "v3": "0"
+    },
+    {
+      "tutorial_division": "SHOP_TUTORIAL",
+      "step": "12",
+      "reward_type": "TOWER_KEY",
+      "v1": "10",
+      "v2": "0",
+      "v3": "0"
+    },
+    {
+      "tutorial_division": "STAGE_FAILED",
+      "step": "4",
+      "reward_type": "REWARD_GEM",
+      "v1": "2000",
+      "v2": "0",
+      "v3": "0"
+    }
+  ]
+}

@@ -1,0 +1,1555 @@
+{
+  "stage_groups": [
+    {
+      "uidx": "1",
+      "stage_min": "1",
+      "stage_max": "3",
+      "group_id": "1"
+    },
+    {
+      "uidx": "2",
+      "stage_min": "4",
+      "stage_max": "5",
+      "group_id": "2"
+    },
+    {
+      "uidx": "3",
+      "stage_min": "6",
+      "stage_max": "7",
+      "group_id": "3"
+    },
+    {
+      "uidx": "4",
+      "stage_min": "8",
+      "stage_max": "12",
+      "group_id": "4"
+    },
+    {
+      "uidx": "5",
+      "stage_min": "13",
+      "stage_max": "20",
+      "group_id": "5"
+    },
+    {
+      "uidx": "6",
+      "stage_min": "21",
+      "stage_max": "30",
+      "group_id": "6"
+    },
+    {
+      "uidx": "7",
+      "stage_min": "31",
+      "stage_max": "40",
+      "group_id": "7"
+    },
+    {
+      "uidx": "8",
+      "stage_min": "41",
+      "stage_max": "50",
+      "group_id": "8"
+    },
+    {
+      "uidx": "9",
+      "stage_min": "51",
+      "stage_max": "60",
+      "group_id": "9"
+    },
+    {
+      "uidx": "10",
+      "stage_min": "61",
+      "stage_max": "90",
+      "group_id": "10"
+    },
+    {
+      "uidx": "11",
+      "stage_min": "91",
+      "stage_max": "100",
+      "group_id": "11"
+    },
+    {
+      "uidx": "12",
+      "stage_min": "101",
+      "stage_max": "140",
+      "group_id": "12"
+    },
+    {
+      "uidx": "13",
+      "stage_min": "141",
+      "stage_max": "150",
+      "group_id": "14"
+    },
+    {
+      "uidx": "14",
+      "stage_min": "151",
+      "stage_max": "190",
+      "group_id": "15"
+    },
+    {
+      "uidx": "15",
+      "stage_min": "191",
+      "stage_max": "200",
+      "group_id": "16"
+    },
+    {
+      "uidx": "16",
+      "stage_min": "201",
+      "stage_max": "999",
+      "group_id": "17"
+    },
+    {
+      "uidx": "17",
+      "stage_min": "1000",
+      "stage_max": "1000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "18",
+      "stage_min": "1001",
+      "stage_max": "1999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "19",
+      "stage_min": "2000",
+      "stage_max": "2000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "20",
+      "stage_min": "2001",
+      "stage_max": "2999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "21",
+      "stage_min": "3000",
+      "stage_max": "3000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "22",
+      "stage_min": "3001",
+      "stage_max": "3999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "23",
+      "stage_min": "4000",
+      "stage_max": "4000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "24",
+      "stage_min": "4001",
+      "stage_max": "4999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "25",
+      "stage_min": "5000",
+      "stage_max": "5000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "26",
+      "stage_min": "5001",
+      "stage_max": "5999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "27",
+      "stage_min": "6000",
+      "stage_max": "6000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "28",
+      "stage_min": "6001",
+      "stage_max": "6999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "29",
+      "stage_min": "7000",
+      "stage_max": "7000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "30",
+      "stage_min": "7001",
+      "stage_max": "7999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "31",
+      "stage_min": "8000",
+      "stage_max": "8000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "32",
+      "stage_min": "8001",
+      "stage_max": "8999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "33",
+      "stage_min": "9000",
+      "stage_max": "9000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "34",
+      "stage_min": "9001",
+      "stage_max": "9999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "35",
+      "stage_min": "10000",
+      "stage_max": "10000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "36",
+      "stage_min": "10001",
+      "stage_max": "10999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "37",
+      "stage_min": "11000",
+      "stage_max": "11000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "38",
+      "stage_min": "11001",
+      "stage_max": "11999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "39",
+      "stage_min": "12000",
+      "stage_max": "12000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "40",
+      "stage_min": "12001",
+      "stage_max": "12999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "41",
+      "stage_min": "13000",
+      "stage_max": "13000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "42",
+      "stage_min": "13001",
+      "stage_max": "13999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "43",
+      "stage_min": "14000",
+      "stage_max": "14000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "44",
+      "stage_min": "14001",
+      "stage_max": "14999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "45",
+      "stage_min": "15000",
+      "stage_max": "15000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "46",
+      "stage_min": "15001",
+      "stage_max": "15999",
+      "group_id": "18"
+    },
+    {
+      "uidx": "47",
+      "stage_min": "16000",
+      "stage_max": "16000",
+      "group_id": "20"
+    },
+    {
+      "uidx": "48",
+      "stage_min": "16001",
+      "stage_max": "99999",
+      "group_id": "18"
+    }
+  ],
+  "appear_groups": [
+    {
+      "groupidx": "1",
+      "monster_gidx": "1001"
+    },
+    {
+      "groupidx": "2",
+      "monster_gidx": "1002"
+    },
+    {
+      "groupidx": "3",
+      "monster_gidx": "1003"
+    },
+    {
+      "groupidx": "4",
+      "monster_gidx": "1004"
+    },
+    {
+      "groupidx": "5",
+      "monster_gidx": "1005"
+    },
+    {
+      "groupidx": "6",
+      "monster_gidx": "1006"
+    },
+    {
+      "groupidx": "7",
+      "monster_gidx": "1007"
+    },
+    {
+      "groupidx": "8",
+      "monster_gidx": "1008"
+    },
+    {
+      "groupidx": "9",
+      "monster_gidx": "1009"
+    },
+    {
+      "groupidx": "10",
+      "monster_gidx": "1010"
+    },
+    {
+      "groupidx": "10",
+      "monster_gidx": "1011"
+    },
+    {
+      "groupidx": "10",
+      "monster_gidx": "1012"
+    },
+    {
+      "groupidx": "10",
+      "monster_gidx": "1013"
+    },
+    {
+      "groupidx": "11",
+      "monster_gidx": "1014"
+    },
+    {
+      "groupidx": "12",
+      "monster_gidx": "1015"
+    },
+    {
+      "groupidx": "12",
+      "monster_gidx": "1016"
+    },
+    {
+      "groupidx": "12",
+      "monster_gidx": "1017"
+    },
+    {
+      "groupidx": "12",
+      "monster_gidx": "1018"
+    },
+    {
+      "groupidx": "14",
+      "monster_gidx": "1019"
+    },
+    {
+      "groupidx": "15",
+      "monster_gidx": "1020"
+    },
+    {
+      "groupidx": "15",
+      "monster_gidx": "1021"
+    },
+    {
+      "groupidx": "15",
+      "monster_gidx": "1022"
+    },
+    {
+      "groupidx": "15",
+      "monster_gidx": "1023"
+    },
+    {
+      "groupidx": "16",
+      "monster_gidx": "1024"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1025"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1026"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1027"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1028"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1029"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1030"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1031"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1032"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1033"
+    },
+    {
+      "groupidx": "17",
+      "monster_gidx": "1034"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1035"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1036"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1037"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1038"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1039"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1040"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1041"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1042"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1043"
+    },
+    {
+      "groupidx": "18",
+      "monster_gidx": "1044"
+    },
+    {
+      "groupidx": "20",
+      "monster_gidx": "1045"
+    }
+  ],
+  "appear_monsterinfo": [
+    {
+      "id": "1001",
+      "def_gen": "1",
+      "atk_gen": "0",
+      "range_gen": "0",
+      "air_gen": "0",
+      "gen_max_count": "1",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "0",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "0",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1002",
+      "def_gen": "1",
+      "atk_gen": "1",
+      "range_gen": "0",
+      "air_gen": "0",
+      "gen_max_count": "2",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "0",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "0",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1003",
+      "def_gen": "1",
+      "atk_gen": "0",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "2",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "0",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "0",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1004",
+      "def_gen": "0",
+      "atk_gen": "1",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "3",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "0",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "0",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1005",
+      "def_gen": "1",
+      "atk_gen": "1",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "4",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "0",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "0",
+      "boss_id": "20022",
+      "bg_id": "3"
+    },
+    {
+      "id": "1006",
+      "def_gen": "2",
+      "atk_gen": "1",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "5",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "20012",
+      "bg_id": "2"
+    },
+    {
+      "id": "1007",
+      "def_gen": "2",
+      "atk_gen": "1",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "5",
+      "elite_max": "0",
+      "elite_rate": "10000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "20022",
+      "bg_id": "5"
+    },
+    {
+      "id": "1008",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "6",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "26043",
+      "air_elite_id": "26044",
+      "boss_id": "20002",
+      "bg_id": "4"
+    },
+    {
+      "id": "1009",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "7",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20050",
+      "bg_id": "1"
+    },
+    {
+      "id": "1010",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "1",
+      "air_gen": "0",
+      "gen_max_count": "7",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "20002",
+      "bg_id": "2"
+    },
+    {
+      "id": "1011",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "20012",
+      "bg_id": "5"
+    },
+    {
+      "id": "1012",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "20022",
+      "bg_id": "4"
+    },
+    {
+      "id": "1013",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1014",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "0",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "22050",
+      "bg_id": "2"
+    },
+    {
+      "id": "1015",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "20012",
+      "bg_id": "5"
+    },
+    {
+      "id": "1016",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "20022",
+      "bg_id": "4"
+    },
+    {
+      "id": "1017",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1018",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "20002",
+      "bg_id": "2"
+    },
+    {
+      "id": "1019",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "24001",
+      "atk_id": "24011",
+      "range_id": "24021",
+      "air_id": "24031",
+      "def_elite_id": "24041",
+      "atk_elite_id": "24042",
+      "range_elite_id": "22043",
+      "air_elite_id": "24044",
+      "boss_id": "24050",
+      "bg_id": "3"
+    },
+    {
+      "id": "1020",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20002",
+      "bg_id": "1"
+    },
+    {
+      "id": "1021",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "20002",
+      "bg_id": "2"
+    },
+    {
+      "id": "1022",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "20012",
+      "bg_id": "5"
+    },
+    {
+      "id": "1023",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "8",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "20022",
+      "bg_id": "4"
+    },
+    {
+      "id": "1024",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "27050",
+      "bg_id": "5"
+    },
+    {
+      "id": "1025",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20050",
+      "bg_id": "1"
+    },
+    {
+      "id": "1026",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "22050",
+      "bg_id": "2"
+    },
+    {
+      "id": "1027",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "24001",
+      "atk_id": "24011",
+      "range_id": "24021",
+      "air_id": "24031",
+      "def_elite_id": "24041",
+      "atk_elite_id": "24042",
+      "range_elite_id": "22043",
+      "air_elite_id": "24044",
+      "boss_id": "24050",
+      "bg_id": "3"
+    },
+    {
+      "id": "1028",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "26050",
+      "bg_id": "4"
+    },
+    {
+      "id": "1029",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "27050",
+      "bg_id": "5"
+    },
+    {
+      "id": "1030",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20050",
+      "bg_id": "1"
+    },
+    {
+      "id": "1031",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "22050",
+      "bg_id": "2"
+    },
+    {
+      "id": "1032",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "24001",
+      "atk_id": "24011",
+      "range_id": "24021",
+      "air_id": "24031",
+      "def_elite_id": "24041",
+      "atk_elite_id": "24042",
+      "range_elite_id": "22043",
+      "air_elite_id": "24044",
+      "boss_id": "24050",
+      "bg_id": "3"
+    },
+    {
+      "id": "1033",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "26050",
+      "bg_id": "4"
+    },
+    {
+      "id": "1034",
+      "def_gen": "2",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "9",
+      "elite_max": "1",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "27050",
+      "bg_id": "5"
+    },
+    {
+      "id": "1035",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20050",
+      "bg_id": "1"
+    },
+    {
+      "id": "1036",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "22050",
+      "bg_id": "2"
+    },
+    {
+      "id": "1037",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "24001",
+      "atk_id": "24011",
+      "range_id": "24021",
+      "air_id": "24031",
+      "def_elite_id": "24041",
+      "atk_elite_id": "24042",
+      "range_elite_id": "22043",
+      "air_elite_id": "24044",
+      "boss_id": "24050",
+      "bg_id": "3"
+    },
+    {
+      "id": "1038",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "26050",
+      "bg_id": "4"
+    },
+    {
+      "id": "1039",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "27050",
+      "bg_id": "5"
+    },
+    {
+      "id": "1040",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "20001",
+      "atk_id": "20011",
+      "range_id": "20021",
+      "air_id": "20031",
+      "def_elite_id": "20041",
+      "atk_elite_id": "20042",
+      "range_elite_id": "20043",
+      "air_elite_id": "20044",
+      "boss_id": "20050",
+      "bg_id": "1"
+    },
+    {
+      "id": "1041",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "22001",
+      "atk_id": "22011",
+      "range_id": "22021",
+      "air_id": "22031",
+      "def_elite_id": "22041",
+      "atk_elite_id": "22042",
+      "range_elite_id": "22043",
+      "air_elite_id": "22044",
+      "boss_id": "22050",
+      "bg_id": "2"
+    },
+    {
+      "id": "1042",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "24001",
+      "atk_id": "24011",
+      "range_id": "24021",
+      "air_id": "24031",
+      "def_elite_id": "24041",
+      "atk_elite_id": "24042",
+      "range_elite_id": "22043",
+      "air_elite_id": "24044",
+      "boss_id": "24050",
+      "bg_id": "3"
+    },
+    {
+      "id": "1043",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "26001",
+      "atk_id": "26011",
+      "range_id": "26021",
+      "air_id": "26031",
+      "def_elite_id": "26041",
+      "atk_elite_id": "26042",
+      "range_elite_id": "20043",
+      "air_elite_id": "26044",
+      "boss_id": "26050",
+      "bg_id": "4"
+    },
+    {
+      "id": "1044",
+      "def_gen": "3",
+      "atk_gen": "2",
+      "range_gen": "2",
+      "air_gen": "0",
+      "gen_max_count": "10",
+      "elite_max": "2",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "27050",
+      "bg_id": "5"
+    },
+    {
+      "id": "1045",
+      "def_gen": "1",
+      "atk_gen": "1",
+      "range_gen": "1",
+      "air_gen": "1",
+      "gen_max_count": "5",
+      "elite_max": "4",
+      "elite_rate": "5000",
+      "m_gen_time_min": "0.3",
+      "gen_time_max": "0.5",
+      "def_id": "27001",
+      "atk_id": "27011",
+      "range_id": "27021",
+      "air_id": "27031",
+      "def_elite_id": "27041",
+      "atk_elite_id": "27042",
+      "range_elite_id": "27043",
+      "air_elite_id": "27044",
+      "boss_id": "50001",
+      "bg_id": "2"
+    }
+  ],
+  "droplist": [
+    {
+      "stagemin": "1",
+      "stagemax": "100",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "101",
+      "stagemax": "200",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "201",
+      "stagemax": "500",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "501",
+      "stagemax": "1000",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "1001",
+      "stagemax": "5000",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "5001",
+      "stagemax": "10000",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "10001",
+      "stagemax": "50000",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "50001",
+      "stagemax": "100000",
+      "groupidx": "1001"
+    },
+    {
+      "stagemin": "100001",
+      "stagemax": "999999999",
+      "groupidx": "1001"
+    }
+  ],
+  "dropitems": [
+    {
+      "groupidx": "1001",
+      "rtype": "REWARD_BOX",
+      "v1": "9001",
+      "v2": "1",
+      "v3": "0",
+      "rarity": "8600"
+    },
+    {
+      "groupidx": "1001",
+      "rtype": "REWARD_BOX",
+      "v1": "9002",
+      "v2": "1",
+      "v3": "0",
+      "rarity": "1300"
+    },
+    {
+      "groupidx": "1001",
+      "rtype": "REWARD_BOX",
+      "v1": "9003",
+      "v2": "1",
+      "v3": "0",
+      "rarity": "90"
+    },
+    {
+      "groupidx": "1001",
+      "rtype": "REWARD_BOX",
+      "v1": "9004",
+      "v2": "1",
+      "v3": "0",
+      "rarity": "9"
+    },
+    {
+      "groupidx": "1001",
+      "rtype": "REWARD_BOX",
+      "v1": "9005",
+      "v2": "1",
+      "v3": "0",
+      "rarity": "1"
+    }
+  ]
+}
